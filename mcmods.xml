@@ -1,0 +1,3971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServerPack version="3.4" xmlns="http://www.mcupdater.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mcupdater.com http://files.mcupdater.com/ServerPackv2.xsd">
+	<Server id="fastpack" abstract="false" name="FastPack Instance" newsUrl="about:blank" version="1.12.2" generateList="true" autoConnect="true" revision="1" mainClass="net.minecraft.launchwrapper.Launch" launcherType="Vanilla">
+		<Module name="(C) Blkdragon112" id="(C)Blkdragon" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Blkdragon112.tbl</URL>
+			<Size>9419</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>f3dd01ea6968d2b8b0c04157ae083aeb</MD5>
+		</Module>
+		<Module name="(C) bludde" id="(C)bludde" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20bludde.tbl</URL>
+			<Size>2459</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>2ca3f5efe21b6f751eba3263eda696fc</MD5>
+		</Module>
+		<Module name="(C) BlueTears__" id="(C)BlueTears" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20BlueTears__.tbl</URL>
+			<Size>1751</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>c036b756452fd47c857d6748ff07b966</MD5>
+		</Module>
+		<Module name="(C) Chakorii" id="(C)Chakorii" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Chakorii.tbl</URL>
+			<Size>2633</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>a31fd5a84ff900d8fda620c47fcbf2d8</MD5>
+		</Module>
+		<Module name="(C) CherryJimbo" id="(C)CherryJimbo" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20CherryJimbo.tbl</URL>
+			<Size>4114</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>caa1fb07e2523075de1d7d34be7a4034</MD5>
+		</Module>
+		<Module name="(C) ChipUK" id="(C)ChipUK" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20ChipUK.tbl</URL>
+			<Size>2102</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ee654bfa4943a459e6baf3d3617a0926</MD5>
+		</Module>
+		<Module name="(C) Cieronph" id="(C)Cieronph" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Cieronph.tbl</URL>
+			<Size>1274</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>7a139f25dded2983acc8c750d1cbdc0b</MD5>
+		</Module>
+		<Module name="(C) claycorp" id="(C)claycorp" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20claycorp.tbl</URL>
+			<Size>1524</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>c9950f43d940030befcadc148c9d906a</MD5>
+		</Module>
+		<Module name="(C) Cloudhunter" id="(C)Cloudhunter" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Cloudhunter.tbl</URL>
+			<Size>2642</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>48261a0693b988ad9a582004e73bcc83</MD5>
+		</Module>
+		<Module name="(C) credstick" id="(C)credstick" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20credstick.tbl</URL>
+			<Size>3803</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>28f64073b469ba82e50f27939015d3dd</MD5>
+		</Module>
+		<Module name="(C) creeperdude12321" id="(C)creeperdude" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20creeperdude12321.tbl</URL>
+			<Size>2064</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>48cccb9a67424d9e8f4550b0d87f0a0a</MD5>
+		</Module>
+		<Module name="(C) Cronoo" id="(C)Cronoo" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Cronoo.tbl</URL>
+			<Size>2158</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>6c1f01a649d2c448dff13aca2c5e4d5e</MD5>
+		</Module>
+		<Module name="(C) Datagne" id="(C)Datagne" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Datagne.tbl</URL>
+			<Size>1878</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>bbc247c5988750e149ad3f8360cd0c49</MD5>
+		</Module>
+		<Module name="(C) daveydee3" id="(C)daveydee" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20daveydee3.tbl</URL>
+			<Size>915</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ff0515cab9e99cff6e47dea0cea0afea</MD5>
+		</Module>
+		<Module name="(C) Deadman775" id="(C)Deadman" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Deadman775.tbl</URL>
+			<Size>2811</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>773121e665104ee18bcf0584ed1c26e3</MD5>
+		</Module>
+		<Module name="(C) DeCMK" id="(C)DeCMK" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20DeCMK.tbl</URL>
+			<Size>1580</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>9fb429607cd2370504ec8972cb80b25c</MD5>
+		</Module>
+		<Module name="(C) DigiplayW8" id="(C)DigiplayW" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20DigiplayW8.tbl</URL>
+			<Size>3230</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>638bd0798056b2c6e62787f46e77a903</MD5>
+		</Module>
+		<Module name="(C) dimaleyko" id="(C)dimaleyko" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20dimaleyko.tbl</URL>
+			<Size>2276</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>7f4dc2d24bf7865d5f47ab411f95de58</MD5>
+		</Module>
+		<Module name="(C) Direwolf20" id="(C)Direwolf" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Direwolf20.tbl</URL>
+			<Size>2400</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>408e7fb594cdfb5437680db7946fbd55</MD5>
+		</Module>
+		<Module name="(C) DJFLuFFy_vs_joe" id="(C)DJFLuFFy_vs_joe" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20DJFLuFFy_vs_joe.tbl</URL>
+			<Size>3839</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8287e699609ff500d2955204a35915b3</MD5>
+		</Module>
+		<Module name="(C) E.V.A." id="(C)E.V.A" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20E.V.A..tbl</URL>
+			<Size>2506</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4a4568c3dc74306ea9a0992b9ee62205</MD5>
+		</Module>
+		<Module name="(C) failprone22" id="(C)failprone" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20failprone22.tbl</URL>
+			<Size>1937</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>0f00860258951a74329324fd8d122fe4</MD5>
+		</Module>
+		<Module name="(C) FireBall1725" id="(C)FireBall" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20FireBall1725.tbl</URL>
+			<Size>2006</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>254e004a7c08a61ae93e4f6a4eb80069</MD5>
+		</Module>
+		<Module name="(C) Fridgeboy" id="(C)Fridgeboy" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Fridgeboy.tbl</URL>
+			<Size>1603</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>874ec4301a11b3ca7dda45cd881f2b76</MD5>
+		</Module>
+		<Module name="(C) Grumpie" id="(C)Grumpie" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Grumpie.tbl</URL>
+			<Size>2675</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>bf86d0a05af6f9d02e732549874480c0</MD5>
+		</Module>
+		<Module name="(C) gtakingiscool" id="(C)gtakingiscool" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20gtakingiscool.tbl</URL>
+			<Size>2172</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ab1b3342c79e143b102054b1a852d138</MD5>
+		</Module>
+		<Module name="(C) HaloBoy12321" id="(C)HaloBoy" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20HaloBoy12321.tbl</URL>
+			<Size>2441</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ac9ab943dd3c0a371923ca4ed40f3290</MD5>
+		</Module>
+		<Module name="(C) Hanse00" id="(C)Hanse" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Hanse00.tbl</URL>
+			<Size>2409</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>2277b2395958bfcca0dcd4e0d5875824</MD5>
+		</Module>
+		<Module name="(C) iChun" id="(C)iChun" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20iChun.tbl</URL>
+			<Size>1632</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>fbcdf0952d16b5c46ec51af51a1bc188</MD5>
+		</Module>
+		<Module name="(C) IvyKirax" id="(C)IvyKirax" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20IvyKirax.tbl</URL>
+			<Size>3132</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>1b2118c93820ca77f35507ba7bc34918</MD5>
+		</Module>
+		<Module name="(C) Jahdoh" id="(C)Jahdoh" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Jahdoh.tbl</URL>
+			<Size>1461</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>12a2349702b5906dfcf412060138196b</MD5>
+		</Module>
+		<Module name="(C) Jakja22" id="(C)Jakja" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Jakja22.tbl</URL>
+			<Size>2462</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>6d757760f4b1c8064cd3eb98f9c84249</MD5>
+		</Module>
+		<Module name="(C) jmanpenilla" id="(C)jmanpenilla" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20jmanpenilla.tbl</URL>
+			<Size>1387</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>a6910f0421fef7726edb297dd85e4014</MD5>
+		</Module>
+		<Module name="(C) kacifox" id="(C)kacifox" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20kacifox.tbl</URL>
+			<Size>3429</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>5ebdb36560e8c57539b19087c75ee4e8</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/ingameinfoxml.cfg</URL>
+				<Path>config/ingameinfoxml.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>24beee5aa5f7fbac81c2dc57b1d06e8b</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="(C) KaywinnitBeej" id="(C)KaywinnitBeej" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20KaywinnitBeej.tbl</URL>
+			<Size>1384</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>88767ece9f5bdce9ed28ce357b7f2872</MD5>
+		</Module>
+		<Module name="(C) Kihira" id="(C)Kihira" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Kihira.tbl</URL>
+			<Size>4051</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>2dbdcd3d41a81625d74873b31bdc718f</MD5>
+		</Module>
+		<Module name="(C) kirby1502" id="(C)kirby" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20kirby1502.tbl</URL>
+			<Size>2941</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ea0ba6f14c0cbb45ae8815cefddea255</MD5>
+		</Module>
+		<Module name="(C) Lambert2191" id="(C)Lambert" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Lambert2191.tbl</URL>
+			<Size>2817</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>eb3be0211a93dbfe686ff7fd83db3827</MD5>
+		</Module>
+		<Module name="(C) megatronp" id="(C)megatronp" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20megatronp.tbl</URL>
+			<Size>3092</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>061dc14cf9fe88d5431c3a56b6e62664</MD5>
+		</Module>
+		<Module name="(C) MidriffCryo" id="(C)MidriffCryo" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20MidriffCryo.tbl</URL>
+			<Size>2852</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b253f58029aaccd7b89f49f858217c1d</MD5>
+		</Module>
+		<Module name="(C) Morvelaira" id="(C)Morvelaira" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Morvelaira.tbl</URL>
+			<Size>1761</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4ce2278cb6176debd71b5e046f223fab</MD5>
+		</Module>
+		<Module name="(C) Mr. Haz" id="(C)Mr.Haz" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Mr.%20Haz.tbl</URL>
+			<Size>2124</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>852200c891e5ee2b0ca1a0d9f5a5318e</MD5>
+		</Module>
+		<Module name="(C) mrgreaper" id="(C)mrgreaper" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20mrgreaper.tbl</URL>
+			<Size>2259</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4646cbc25c86215ed5f3ce66d9929ab5</MD5>
+		</Module>
+		<Module name="(C) MrMallenby" id="(C)MrMallenby" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20MrMallenby.tbl</URL>
+			<Size>1980</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b4e91ee7a5501d5eafebce0e767718e1</MD5>
+		</Module>
+		<Module name="(C) mroberts6" id="(C)mroberts" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20mroberts6.tbl</URL>
+			<Size>2890</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>d325e615a7235d2269212966920d901c</MD5>
+		</Module>
+		<Module name="(C) odedex" id="(C)odedex" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20odedex.tbl</URL>
+			<Size>3048</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b8aec717a1128cbde4ff9219a939934a</MD5>
+		</Module>
+		<Module name="(C) restoredhalo901" id="(C)restoredhalo" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20restoredhalo901.tbl</URL>
+			<Size>1680</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4856fea2639903604f88f0677c9f400d</MD5>
+		</Module>
+		<Module name="(C) RoyalAngelzor" id="(C)RoyalAngelzor" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20RoyalAngelzor.tbl</URL>
+			<Size>2667</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>c38017840fb51e4b923b81fa6c1ddf8c</MD5>
+		</Module>
+		<Module name="(C) rxiv" id="(C)rxiv" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20rxiv.tbl</URL>
+			<Size>1494</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>e68464f3b2a7e3f12241ac46681dce35</MD5>
+		</Module>
+		<Module name="(C) scarletr0se" id="(C)scarletrse" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20scarletr0se.tbl</URL>
+			<Size>9208</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4d2d5aed2ff8f8a60353a0c51492d286</MD5>
+		</Module>
+		<Module name="(C) SitDownCreepa" id="(C)SitDownCreepa" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20SitDownCreepa.tbl</URL>
+			<Size>2433</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>a4d2075d187971baf20419e3675d5184</MD5>
+		</Module>
+		<Module name="(C) sivina" id="(C)sivina" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20sivina.tbl</URL>
+			<Size>1751</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>0040c76163b7a3e2ae9f09eeab59be06</MD5>
+		</Module>
+		<Module name="(C) skeledron" id="(C)skeledron" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20skeledron.tbl</URL>
+			<Size>2508</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>31749d840d3a567e37dc18b6a14d05c4</MD5>
+		</Module>
+		<Module name="(C) Soaryn" id="(C)Soaryn" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Soaryn.tbl</URL>
+			<Size>2992</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>655ff57eb7aac4f8a22261489c46d5a2</MD5>
+		</Module>
+		<Module name="(C) stonislandmodz" id="(C)stonislandmodz" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20stonislandmodz.tbl</URL>
+			<Size>2194</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>e3b0909fc395e5005e89e81f4e16821e</MD5>
+		</Module>
+		<Module name="(C) stramp_" id="(C)stramp" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20stramp_.tbl</URL>
+			<Size>1686</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>c6f54899448dfc7a8bc414f522e3af80</MD5>
+		</Module>
+		<Module name="(C) Swisstobi" id="(C)Swisstobi" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Swisstobi.tbl</URL>
+			<Size>3221</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>47909f4d30eaa5ce10f6bd32ee5ab4e3</MD5>
+		</Module>
+		<Module name="(C) TheForensicDuck" id="(C)TheForensicDuck" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20TheForensicDuck.tbl</URL>
+			<Size>1877</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>89d78a0964bfbeca7e22315ce7ca65df</MD5>
+		</Module>
+		<Module name="(C) TheMattaBase" id="(C)TheMattaBase" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20TheMattaBase.tbl</URL>
+			<Size>18856</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>40c87347920841104f7907614d5b165e</MD5>
+		</Module>
+		<Module name="(C) TheMusicalBoy93" id="(C)TheMusicalBoy" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20TheMusicalBoy93.tbl</URL>
+			<Size>7047</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>10ad270554946194e661f47be772b23c</MD5>
+		</Module>
+		<Module name="(C) tiena63" id="(C)tiena" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20tiena63.tbl</URL>
+			<Size>1912</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>3ccde72784d72c8dc9ea71db7dd694ff</MD5>
+		</Module>
+		<Module name="(C) Tigereye10" id="(C)Tigereye" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Tigereye10.tbl</URL>
+			<Size>3195</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b2c2eb937b6a00d3715ede5ddbe0a6fe</MD5>
+		</Module>
+		<Module name="(C) Toby1066" id="(C)Toby" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Toby1066.tbl</URL>
+			<Size>1599</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>51e44ea34331c0357292a380931c0e49</MD5>
+		</Module>
+		<Module name="(C) Umbra" id="(C)Umbra" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20Umbra.tbl</URL>
+			<Size>4125</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4e0c6339431b99c1102a1e1bfe5d290e</MD5>
+		</Module>
+		<Module name="(C) vincemuhs" id="(C)vincemuhs" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20vincemuhs.tbl</URL>
+			<Size>2420</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>753a30a88a72ab53e3386833cc96927f</MD5>
+		</Module>
+		<Module name="(C) wyld" id="(C)wyld" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Contributors/(C)%20wyld.tbl</URL>
+			<Size>2467</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>696e35219d8f3f660df1d4c722306bb7</MD5>
+		</Module>
+		<Module name="Abraham Lincoln Hat" id="AbrahamLincolnHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Abraham%20Lincoln%20Hat.tbl</URL>
+			<Size>1865</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>10d690e74f3080d74a23733a95e04fea</MD5>
+		</Module>
+		<Module name="Aerwhale Hat" id="AerwhaleHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/The_Mushroomcow&apos;s%20Collection/Aerwhale%20Hat.tbl</URL>
+			<Size>4006</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ad1849aacea40dced7d920d34f8c5dd1</MD5>
+		</Module>
+		<Module name="Alternating Flux" id="alternatingflux" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/alternatingflux-0.12-4.jar</URL>
+			<Size>59555</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4053fd92ad6154942e3b69adfde1376a</MD5>
+			<Meta>
+				<credits>Thanks to BlueSunrize and Damien A.W. Hazard for creating the awesome mod Immersive Engineering</credits>
+				<description>Adds long distance power transmission to Immersive Engineering</description>
+				<version>0.12-4</version>
+				<url></url>
+				<authors>AntiBlueQuirk</authors>
+			</Meta>
+		</Module>
+		<Module name="antiqueatlas-1.12.2-4.4.7" id="antiqueatlas" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/antiqueatlas-1.12.2-4.4.7.jar</URL>
+			<Size>1223382</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ade119a1c37a4cd23d9d84ae9a19c75e</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/antiqueatlas/antiqueatlas.cfg</URL>
+				<Path>config/antiqueatlas/antiqueatlas.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>1464ba90d3b39cbc7c878572a95e1092</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/antiqueatlas/atlas_overlay.cfg</URL>
+				<Path>config/antiqueatlas/atlas_overlay.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>2a9239a622f8c69d5424b2484d4deed6</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/antiqueatlas/biome_textures.json</URL>
+				<Path>config/antiqueatlas/biome_textures.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>8b61057b5e6574a7db450ebe8d9fd4fa</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/antiqueatlas/markers.json</URL>
+				<Path>config/antiqueatlas/markers.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>38bc8e498f8d7a24683e17f3acc822f1</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/antiqueatlas/texture_sets.json</URL>
+				<Path>config/antiqueatlas/texture_sets.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>67f2e4b1c5f395168d76ba21a109bbc9</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/antiqueatlas/tileids.json</URL>
+				<Path>config/antiqueatlas/tileids.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>e86f4bcc9c0c2c9c2f70733559f86e58</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/antiqueatlas/tile_textures.json</URL>
+				<Path>config/antiqueatlas/tile_textures.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>ec4f299e69845b5597b02b7174b5602e</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/toughasnails/gameplay.cfg</URL>
+				<Path>config/toughasnails/gameplay.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>bfaf4dd986b9ec3b602b7e0deca7851e</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Anvilhead" id="Anvilhead" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Portalcrafter51&apos;s%20Collection/Anvilhead.tbl</URL>
+			<Size>1124</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>2cf0f12c97423806c707bffb0a7d58c4</MD5>
+		</Module>
+		<Module name="AppleHat" id="AppleHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/AppleHat.tbl</URL>
+			<Size>1423</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>2865f73c0c3925486584e9cbcde1cc5e</MD5>
+		</Module>
+		<Module name="AppleSkin" id="appleskin" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/AppleSkin-mc1.12-1.0.9.jar</URL>
+			<Size>32317</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>0e0af1e6f80ea2ee7ecfc2f8f44b897b</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Adds various food-related HUD improvements</description>
+				<version>1.0.9</version>
+				<url></url>
+				<authors>squeek</authors>
+			</Meta>
+		</Module>
+		<Module name="Arrow Head" id="ArrowHead" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Arrow%20Head.tbl</URL>
+			<Size>1230</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>cf5c18aa43fadc3a3d0df801045a4ae4</MD5>
+		</Module>
+		<Module name="Arrowed Top Hat" id="ArrowedTopHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Arrowed%20Top%20Hat.tbl</URL>
+			<Size>1499</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b002caaddc3c2d1cdf665d6a0a07aade</MD5>
+		</Module>
+		<Module name="Ash&apos;s Cap" id="Ash'sCap" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Ash&apos;s%20Cap.tbl</URL>
+			<Size>24469</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>815ddc8018417a998445709eb3cd582f</MD5>
+		</Module>
+		<Module name="ATLCraft Candles Mod" id="atlcraft" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/ATLCraftCandlesMod(MC1.12-Ver1.9).jar</URL>
+			<Size>2332382</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>49c4e8fad632a44c4f435f446a8942c7</MD5>
+			<Meta>
+				<credits>General all-around awesome help by X105Black.</credits>
+				<description>Candles and related items.</description>
+				<version>1.12-1.9</version>
+				<url>https://minecraft.curseforge.com/projects/atlcraft-candles-mod</url>
+				<authors>§5AllTheLayers</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/atlcraft.cfg</URL>
+				<Path>config/atlcraft.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>b98a8d190377e767a0a1e017c27ef777</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/decocraft.cfg</URL>
+				<Path>config/decocraft.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>420b780ccc54113f59d16f998bf1daec</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Australian Minecart" id="AustralianMinecart" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Australian%20Minecart.tbl</URL>
+			<Size>6103</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>02485bf0edc257936652645abed1095d</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/astralsorcery/aevitas_ore_perk.cfg</URL>
+				<Path>config/astralsorcery/aevitas_ore_perk.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>3cdbca288a189e55ba07dccea735812a</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/astralsorcery/fluid_rarities.cfg</URL>
+				<Path>config/astralsorcery/fluid_rarities.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>d4aefc0ce67212fe9aac28afaf19f550</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/astralsorcery/mineralis_ritual.cfg</URL>
+				<Path>config/astralsorcery/mineralis_ritual.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>3cdbca288a189e55ba07dccea735812a</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/astralsorcery/treasure_shrine.cfg</URL>
+				<Path>config/astralsorcery/treasure_shrine.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>3cdbca288a189e55ba07dccea735812a</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/astralsorcery.cfg</URL>
+				<Path>config/astralsorcery.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>e285a80915597f36bd4fa80c62836bab</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="AutoRegLib" id="autoreglib" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/AutoRegLib-1.3-15.jar</URL>
+			<Size>63089</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>cd28f7419357207a48d6d3e0ee07152a</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Automatically item, block, and model registration for mods.</description>
+				<version>1.3-15</version>
+				<url>http://www.vazkii.us</url>
+				<authors>Vazkii</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/ptrmodellib.cfg</URL>
+				<Path>config/ptrmodellib.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>204f98b45b7111b39bbd9ed65b70465d</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Axehead" id="Axehead" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Axehead.tbl</URL>
+			<Size>1679</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>f446473fe569da915e48a7fbc66d96bf</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/Weather2/Sand.cfg</URL>
+				<Path>config/Weather2/Sand.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>f2360e425831a0709706fea25211e774</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Baby Turtle" id="BabyTurtle" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr_Hazard&apos;s%20Collection/Baby%20Turtle.tbl</URL>
+			<Size>1667</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ae8ede10d53a52154eee74c5a610f757</MD5>
+		</Module>
+		<Module name="Bane Mask" id="BaneMask" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Bane%20Mask.tbl</URL>
+			<Size>2289</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>00ab6e21f54f506019ff58ddd1fff26a</MD5>
+		</Module>
+		<Module name="Baubles" id="baubles" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Baubles-1.12-1.5.2.jar</URL>
+			<Size>108450</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>944dec4ef3fbfd4d498d94a7047af201</MD5>
+			<Meta>
+				<credits>Special thanks to chicken_bones</credits>
+				<description>Adding a touch of bling to Minecraft</description>
+				<version>1.12-1.5.2</version>
+				<url>http://www.minecraftforum.net/topic/2535073-baubles</url>
+				<authors>Azanor</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/baubles.cfg</URL>
+				<Path>config/baubles.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>2686fb61e4e9948ba0ed545122c01b43</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Better Foliage" id="betterfoliage" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/BetterFoliage-MC1.12-2.1.10.jar</URL>
+			<Size>4671397</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>06714eb2c13f59df5e3c92cec7370e11</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Leafier leaves and grassier grass</description>
+				<version>2.1.10</version>
+				<url></url>
+				<authors>octarine-noise (code), Meringue (textures)</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/betterfoliage.cfg</URL>
+				<Path>config/betterfoliage.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>fa6f5224ce68059be075c1c25610c13f</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/betterfonts.cfg</URL>
+				<Path>config/betterfonts.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>11f8c1b6470beeb0e0a17039347fbe9c</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/betterfps.json</URL>
+				<Path>config/betterfps.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>9fafc11a63bc72f6d2cfa5a3e3ebd02b</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/Weather2/Tornado.cfg</URL>
+				<Path>config/Weather2/Tornado.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>27b93d7b469759fafa1e0575a0455c46</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Better HUD" id="hud" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hud-1.3.9-1.12.jar</URL>
+			<Size>589732</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b1b46bf544e2dcb73296cd934b958f56</MD5>
+			<Meta>
+				<credits>CharlieJiang and TheRiddick for Chinese and German translations </credits>
+				<description>Better HUD adds 28 new elements to the ingame HUD. New elements can be customized in many different ways, moved around and enabled/disabled as you choose.
+
+New elements include a sign reader, player/mob info, raindrops and blood effects, armor and held item info, clock and many more.</description>
+				<version>1.3.9</version>
+				<url></url>
+				<authors>NukeDuck</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/hud.txt</URL>
+				<Path>config/hud.txt</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>65b8830fa0d6ed9d257f0896dd9dff7b</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Biomes O&apos; Plenty" id="biomesoplenty" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/BiomesOPlenty-1.12.2-7.0.1.2325-universal.jar</URL>
+			<Size>4917541</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>3f84cbe3a27469977aeb424f26dac12b</MD5>
+			<Meta>
+				<credits>Tim Rurkowski, gamax92, GridMonkey, and many more</credits>
+				<description>Adds over 50 new biomes, blocks, and more!</description>
+				<version>7.0.1</version>
+				<url>http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty</url>
+				<authors>Adubbz, Amnet, Cheeserolls, Forstride, ted80</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/alps.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/alps.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>070875e230536a8d604563d2bc4c5511</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/alps_foothills.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/alps_foothills.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>c06a9af199b0d70375eb87f33bb795e5</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/bamboo_forest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/bamboo_forest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>1bc85c0886c8e9a9dce50c9c5ffc0f03</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/bayou.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/bayou.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>c35b19cbe0128aa0a76d271638b6ccc6</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/bog.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/bog.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>a8dc01c679ab7133e68730d0ac041bc8</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/boreal_forest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/boreal_forest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>7fa1e9101f56fa0786fd9dfd2fc01264</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/brushland.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/brushland.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>2cdf36973c975f62e53917bc823b2a12</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/chaparral.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/chaparral.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>810776629dfa852e254257e821342eee</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/cherry_blossom_grove.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/cherry_blossom_grove.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>c645da2d42027737cdb5c06e3ecb0881</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/cold_desert.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/cold_desert.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>9655a2cada93267a35309a9975a2d856</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/coniferous_forest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/coniferous_forest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>d5acbdf5c3611031be27f328cbee73ca</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/coral_reef.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/coral_reef.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>f6d6487c13a5fcddcb0d7a3a9c10458b</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/corrupted_sands.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/corrupted_sands.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>01b089868c034c02f628ebcd709a07f9</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/crag.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/crag.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>416f9c9beddd4458b542a6f696efc0b7</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/dead_forest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/dead_forest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>052bc855e3512e30e29d50293eb03b25</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/dead_swamp.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/dead_swamp.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>fd46e24d10240dacbeaf0a99f62f01f8</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/eucalyptus_forest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/eucalyptus_forest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>4fc227818a976af30d6c57543ee00baa</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/fen.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/fen.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>90048f64fb67d5b4c310ea7da254b7b1</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/flower_field.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/flower_field.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>8a3fc486babe80a07b47f0fa71618d24</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/flower_island.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/flower_island.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>05e900b6f62d024600ce5c0577284149</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/fungi_forest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/fungi_forest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>40eacc5658553e49459efa3de966123f</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/glacier.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/glacier.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>d3fe1d795f45e47e63a24ae2dbb8ef1e</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/grassland.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/grassland.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>e784a77ca602981731ff5f035947c3f4</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/gravel_beach.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/gravel_beach.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>812fd809f69c4badd6312d2c2e64ab4e</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/grove.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/grove.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>0b9752dc491afc30ebef97b307b5ee87</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/highland.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/highland.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>62c6c9a550f70cf4de2b484bc2a4f7c2</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/kelp_forest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/kelp_forest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>f029450d85ed7f5d0f98ce46e7def198</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/land_of_lakes.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/land_of_lakes.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>0c4243d46a0c5b26d2c317ec5da01e59</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/lavender_fields.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/lavender_fields.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>49cc554d3e793248700407b8d7aef946</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/lush_desert.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/lush_desert.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>a674aa32fcf5dffdd9439f4198520361</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/lush_swamp.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/lush_swamp.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>c79208bea31c837c9ff98f617f25321c</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/mangrove.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/mangrove.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>fc98ffce7e67a7be1758124222d1c1bf</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/maple_woods.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/maple_woods.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>60bb336fca310d8a3a77d57e748456d3</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/marsh.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/marsh.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>d79dc0d2e19bbf83ed13e58be1d285b3</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/meadow.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/meadow.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>ff2b579a53df2dfae4ddb13dab231284</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/moor.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/moor.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>55e966cfe6e1ed77102a5713790516b7</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/mountain.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/mountain.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>1576bf5084243cbefcef6d0836c3e923</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/mountain_foothills.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/mountain_foothills.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>63de0a63f0b59962d99e4910b66d5341</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/mystic_grove.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/mystic_grove.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>0f1577a8c143428a4d2d7e39a678e377</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/oasis.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/oasis.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>da0cc3d9316d8f43a34b157cb1b9d989</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/ominous_woods.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/ominous_woods.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>779e90695c6dc81d4413a9f22c7d4f9e</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/orchard.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/orchard.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>f745cb7c7418fbab54d4861088fbe753</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/origin_island.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/origin_island.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>f2028bf06ccb0210721827ea05a2ca31</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/outback.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/outback.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>a1cc9dc2a3119e2058104a52a3095b0c</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/overgrown_cliffs.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/overgrown_cliffs.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>72c3e7262bb0f8361e9bc1457c9dba0c</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/phantasmagoric_inferno.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/phantasmagoric_inferno.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>dc5ff8c495589d50ccbe876578636b58</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/polar_chasm.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/polar_chasm.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>1b6e971b2258fb0c4352862ac089da8e</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/prairie.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/prairie.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>4edbf293dd6504d3feb47203c5418f90</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/quagmire.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/quagmire.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>e1320bd98f3bb5468c79effe6c816686</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/rainforest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/rainforest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>30e8d3942e8f8bac794dab0df2a320c0</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/redwood_forest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/redwood_forest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>5092c0d5c866630423affb1e695fbcdc</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/sacred_springs.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/sacred_springs.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>caeff90f6dfeb1f80abde4f9f8aba455</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/seasonal_forest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/seasonal_forest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>e7050e2a9bdd7ba90d3c6c43d1664164</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/shield.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/shield.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>45702ce22c3117b373a9865d2631a00d</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/shrubland.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/shrubland.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>3bbf9dfb6eeffbc3c03e3b6d1903aa28</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_coniferous_forest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_coniferous_forest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>51e7f8f2b49d430b3cf85d51f483f235</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_forest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_forest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>ef2713572a15fd451b1368225ec221a9</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/steppe.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/steppe.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>086844e0989bef8b297ca24139b6a1d7</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/temperate_rainforest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/temperate_rainforest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>95bd1099befb0a00f3eb0aad53930200</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/tropical_island.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/tropical_island.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>6d5b1c3f1131ed50361a922377f723b8</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/tropical_rainforest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/tropical_rainforest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>3cd64cf1f57047a180fbaa1ed34d15d7</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/tundra.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/tundra.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>6e0507bb03c92b91cc8b10e92a713b1a</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/undergarden.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/undergarden.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>be365d8413e00b1fa5deea9877208514</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/visceral_heap.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/visceral_heap.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>01b81444a8f3851bcb13372f7f1d5fce</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/volcanic_island.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/volcanic_island.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>f34650d73660f3b512e8ad898feeb87a</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/wasteland.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/wasteland.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>9cc2b7609c276d6f9c608f877bdb88da</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/wetland.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/wetland.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>83e604b0ccede84b7523a80f5781720a</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/white_beach.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/white_beach.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>6b1222bad6e2f09a46b96be45b495e93</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/woodland.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/woodland.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>4d0da6dd7bd03943f3885ff716551f8e</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/biomesoplenty/xeric_shrubland.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/biomesoplenty/xeric_shrubland.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>1da6a5a999615f1fcdd5e8b3a7a21d6d</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/birch_forest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/birch_forest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>6d819766b3214b8225bc55dd09357f96</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/birch_forest_hills.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/birch_forest_hills.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>6d819766b3214b8225bc55dd09357f96</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/desert.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/desert.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>aa9ddbffbd65833f2e5718bd5785f78e</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/desert_hills.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/desert_hills.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>503297420ffd719132e82755969fdcd7</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/extreme_hills.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/extreme_hills.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>b100970986c7694128595ddb041f31bf</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/extreme_hills_with_trees.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/extreme_hills_with_trees.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>b100970986c7694128595ddb041f31bf</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/forest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/forest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>268ecd2464de12ef698cd30de273e99f</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/forest_hills.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/forest_hills.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>30098dc5ed5f54820373846431c96705</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/hell.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/hell.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>1d30ee8eb0f8e10bbba894ebbc7ed4c7</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/ice_flats.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/ice_flats.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>79c764ef74553dd5af53a2bfcc81d0ec</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/ice_mountains.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/ice_mountains.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>79c764ef74553dd5af53a2bfcc81d0ec</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/jungle.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/jungle.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>c899a9fee2661db791964c312031dc18</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/jungle_hills.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/jungle_hills.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>c899a9fee2661db791964c312031dc18</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/mesa.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/mesa.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>447b489131973e27835c97096ccf06ce</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/mesa_clear_rock.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/mesa_clear_rock.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>447b489131973e27835c97096ccf06ce</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/mushroom_island.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/mushroom_island.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>27a0b768113f1db1f76b3541d6d7d711</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/ocean.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/ocean.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>2110980db1803f9bdb960b81f4bd0c3d</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/plains.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/plains.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>b920c0e88c2643768c85f808a35ccd7e</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/redwood_taiga.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/redwood_taiga.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>ff2a1aa16cba5537688e5e3d8dc403e3</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/redwood_taiga_hills.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/redwood_taiga_hills.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>ff2a1aa16cba5537688e5e3d8dc403e3</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/roofed_forest.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/roofed_forest.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>e280e53aea5ef20d8e1d8befea8167be</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/savanna.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/savanna.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>e6ada90b6aafe6477894e43e0a8929f0</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/savanna_rock.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/savanna_rock.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>a8925b829ebf4f86c3246cf27a01575d</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/sky.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/sky.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>ed0911ba944a6a02ef75b18b0ec379ea</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/swampland.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/swampland.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>eea9dc211028eb68bd93b6ad64c1c15b</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/taiga.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/taiga.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>ff2a1aa16cba5537688e5e3d8dc403e3</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/taiga_cold.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/taiga_cold.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>2d3efc7c89d278a2e8b10a626a3d8928</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/taiga_cold_hills.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/taiga_cold_hills.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>2d3efc7c89d278a2e8b10a626a3d8928</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/defaults/vanilla/taiga_hills.json</URL>
+				<Path>config/biomesoplenty/biomes/defaults/vanilla/taiga_hills.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>ff2a1aa16cba5537688e5e3d8dc403e3</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biomes/Put%20biome%20config%20files%20here</URL>
+				<Path>config/biomesoplenty/biomes/Put biome config files here</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>d41d8cd98f00b204e9800998ecf8427e</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/biome_ids.json</URL>
+				<Path>config/biomesoplenty/biome_ids.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>465f1fbb908a4f3de83f3d08035f4aad</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/gameplay.cfg</URL>
+				<Path>config/biomesoplenty/gameplay.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>3b208b049aa5572878d916339b4e9f37</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/biomesoplenty/misc.cfg</URL>
+				<Path>config/biomesoplenty/misc.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>a0e73242e7648e0b90ccde823636b4cf</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Blame The Community" id="BlameTheCommunity" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr_Hazard&apos;s%20Collection/Blame%20The%20Community.tbl</URL>
+			<Size>1884</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>2142780e14356a4f5e3d5baea0d1e675</MD5>
+		</Module>
+		<Module name="Botania" id="botania" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Botania+r1.10-353.jar</URL>
+			<Size>13582605</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8be68a0e75a7b16c793a696fda1a4c5d</MD5>
+			<Meta>
+				<credits>Azanor, Flaxbeard, Futureazoo, Rorax, Lorc, Adubbz, WTFG33ks, Auric245524, MegaManki, Kain Vinosec, Kihira, mDiyo, Mikeemoo, ChickenBones, PowerCrystals, cpw</credits>
+				<description>Botania is a mod that adds nature magic to Minecraft</description>
+				<version>r1.10-353</version>
+				<url>http://www.botaniamod.net</url>
+				<authors>Vazkii, williewillus, wiiv, dylan4ever</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/botania.cfg</URL>
+				<Path>config/botania.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>28461beedf1be129416a407c2b525e5e</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Bowl Hat" id="BowlHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/DJFLuFFy_vs_joe&apos;s%20Collection/Bowl%20Hat.tbl</URL>
+			<Size>2743</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>f5013bbfe8f5c3684cfdc058179d511c</MD5>
+		</Module>
+		<Module name="Boy of Silence Hat" id="BoyofSilenceHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/Boy%20of%20Silence%20Hat.tbl</URL>
+			<Size>9866</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>48f79db3667b1f40c30faf64766a32f6</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/toughasnails/temperature.cfg</URL>
+				<Path>config/toughasnails/temperature.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>e1229187b949567045ba7ba20010ae60</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Breadfish Hat" id="BreadfishHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Breadfish%20Hat.tbl</URL>
+			<Size>1202</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>cbf8c182f8ddf7b96bf9375fa6e963f3</MD5>
+		</Module>
+		<Module name="BSOD" id="BSOD" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/BSOD.tbl</URL>
+			<Size>1093</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>cd231d28fd01b528ac883ff6733e1d97</MD5>
+		</Module>
+		<Module name="Bullseye" id="bullseye" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Bullseye-1.12.2-3.0.6.jar</URL>
+			<Size>136190</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>db87372aaf8cc56a17c729dd630771b3</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Adds new arrows, including fire arrows, dye arrows, bomb arrows, and more!</description>
+				<version>3.0.6</version>
+				<url>https://minecraft.curseforge.com/projects/bullseye</url>
+				<authors>Forstride</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/bullseye/config.cfg</URL>
+				<Path>config/bullseye/config.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>bb0f0f9e2709a6abcb12d4f0503a9187</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Cage Hat" id="CageHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Cage%20Hat.tbl</URL>
+			<Size>4062</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ddbd07398acff4855fe8be018e275b18</MD5>
+		</Module>
+		<Module name="Cake Hat" id="CakeHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Cake%20Hat.tbl</URL>
+			<Size>1523</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>0e10c6c5388cc1a1817a6cb53773cfc3</MD5>
+		</Module>
+		<Module name="Cap" id="Cap" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Cap.tbl</URL>
+			<Size>1119</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>9ce88f8a874af9959291a58d820d12f0</MD5>
+		</Module>
+		<Module name="Carry On" id="carryon" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/CarryOn+MC1.12.2+v1.7.2.jar</URL>
+			<Size>283214</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>11397a2c99bac111818aee8e127d851f</MD5>
+			<Meta>
+				<credits>Tschipp, Purplicious_Cow, cy4n</credits>
+				<description>Carry On is a simple mod that improves game interaction by allowing players to pick up, carry, and place single block Tile Entities using only their empty hands.</description>
+				<version>1.7.2</version>
+				<url></url>
+				<authors>Tschipp, Purplicious_Cow, cy4n</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/carryon.cfg</URL>
+				<Path>config/carryon.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>d4ef89caef89f101d105e7bf64c1152c</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Cat in the Hat" id="CatintheHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Cat%20in%20the%20Hat.tbl</URL>
+			<Size>2103</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>3b1ec486f633c84de70199d1cf793221</MD5>
+		</Module>
+		<Module name="Chameleon" id="chameleon" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Chameleon-1.12-4.1.3.jar</URL>
+			<Size>96859</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>e42efa8f4fd42d2918128a826b740e98</MD5>
+			<Meta>
+				<credits>By jaquadro</credits>
+				<description>Shared code and render support for mods.  Used by jaquadro&apos;s mods.</description>
+				<version>1.12-4.1.3</version>
+				<url>http://www.jaquadro.com/</url>
+				<authors>jaquadro</authors>
+			</Meta>
+		</Module>
+		<Module name="CheeseHat" id="CheeseHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/CheeseHat.tbl</URL>
+			<Size>1935</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>e0f162ff46efacbd8cf47e5ecc9a7c8a</MD5>
+		</Module>
+		<Module name="Chest" id="Chest" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Chest.tbl</URL>
+			<Size>2505</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>a008f41ff709a36ba853ee53bbdc240d</MD5>
+		</Module>
+		<Module name="Chickens" id="chickens" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/chickens-6.0.4.jar</URL>
+			<Size>247347</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>230307e4a9924bdb5421bf1e635856aa</MD5>
+			<Meta>
+				<credits>The Forge and FML guys, for making this example</credits>
+				<description>Chickens... lots of chickens.</description>
+				<version>6.0.4</version>
+				<url>http://minecraft.curseforge.com/projects/chickens</url>
+				<authors>SetyCz, Wyvi, GenDeathrow, LordCazsius</authors>
+			</Meta>
+		</Module>
+		<Module name="Chisel" id="chisel" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Chisel-MC1.12.2-0.2.0.31.jar</URL>
+			<Size>4294434</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>853c56bd014423e424ecef6db2c1efb1</MD5>
+			<Meta>
+				<credits>AUTOMATIC_MAIDEN for the original mod,
+asie for porting to 1.7.2,
+and Pokenfenn/Cricket for continuing it in 1.7.
+This mod uses textures from the Painterly Pack: http://painterlypack.net/.</credits>
+				<description>Adds in tons of fancy blocks for decoration, crafted using the Chisel.</description>
+				<version>MC1.12.2-0.2.0.31</version>
+				<url>https://minecraft.curseforge.com/projects/chisel</url>
+				<authors>tterrag, Drullkus, minecreatr</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/chisel.cfg</URL>
+				<Path>config/chisel.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>d65738f101457d5ff8530ba30d404da1</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Chisels &amp; Bits" id="chiselsandbits" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/chiselsandbits-14.16.jar</URL>
+			<Size>708394</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>1e170d73dc846bab5bf0c484c44219ba</MD5>
+			<Meta>
+				<credits>AlgorithmX2</credits>
+				<description>a mod about Sculpting, Decorating and Aesthetics</description>
+				<version>14.16</version>
+				<url>http://minecraft.curseforge.com/projects/chisels-bits</url>
+				<authors>AlgorithmX2</authors>
+			</Meta>
+		</Module>
+		<Module name="Chunk+Pregenerator+V1.12-1.7.1" id="Chunk+Pregenerator+V" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Chunk+Pregenerator+V1.12-1.7.1.jar</URL>
+			<Size>331437</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>626904e5ecd07bcb1c413f05fd3d0511</MD5>
+		</Module>
+		<Module name="Clarity" id="clarity" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/clarity-1.1.jar</URL>
+			<Size>1987</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>bb3e3d829aa17414bf3e05a6654d0e21</MD5>
+			<Meta>
+				<credits>CrusherTech, for requesting this mod&apos;s existence.</credits>
+				<description>Decreases underwater fog to make exploring the depths easier on the eyes.</description>
+				<version>1.1</version>
+				<url></url>
+				<authors>Elucent</authors>
+			</Meta>
+		</Module>
+		<Module name="Clip on Rabbit Ears" id="CliponRabbitEars" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/DJFLuFFy_vs_joe&apos;s%20Collection/Clip%20on%20Rabbit%20Ears.tbl</URL>
+			<Size>1754</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>254172e0a68866baf3ff4f437328f607</MD5>
+		</Module>
+		<Module name="Clip-On Halo" id="Clip-OnHalo" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Clip-On%20Halo.tbl</URL>
+			<Size>927</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>0716a0fdce1e1fb11bfefa0bdb9e0732</MD5>
+		</Module>
+		<Module name="CodeChicken Lib" id="codechickenlib" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/CodeChickenLib-1.12.2-3.1.6.339-universal.jar</URL>
+			<Size>658041</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>edd6dc7efd8fda77a073aa778d94c2c0</MD5>
+			<Meta>
+				<credits></credits>
+				<description>CodeChickenLib is a library of systems to help make various aspects of minecraft modding easier. It contains libraries for 3D math and transformations, model rendering, packets, config, colours, asm and a few other things..</description>
+				<version>3.1.6.339</version>
+				<url>http://chickenbones.net/Pages/links.html</url>
+				<authors>ChickenBones, covers1624</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/codechicken/supporters.json</URL>
+				<Path>config/codechicken/supporters.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>88aff090945abcaec8280932e91f4117</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/codechicken/supporters.marker</URL>
+				<Path>config/codechicken/supporters.marker</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>455525a7d188804f0b18c218e18bcfdf</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Combined Potions" id="compot" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/CombinedPotions-1.12-1.1.jar</URL>
+			<Size>12972</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b6a35baaed9c57cfb4a6992e77102684</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Allow crafting of multiple potions into a single potion with multiple effects</description>
+				<version>1.1</version>
+				<url>https://minecraft.curseforge.com/projects/combined-potions</url>
+				<authors>crazysnailboy</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/compot.cfg</URL>
+				<Path>config/compot.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>8976c4c72b2820c6f4c7088d8e487220</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Comforts" id="comforts" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/comforts-1.12.2-1.1.0.2.jar</URL>
+			<Size>145511</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>79069da27e181e89f91a55aa2e88323b</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Adds sleeping bags and hammocks for portability and daytime napping without setting a new spawn. Comes in 16 different colors!</description>
+				<version>1.12.2-1.1.0.2</version>
+				<url></url>
+				<authors>C4</authors>
+			</Meta>
+		</Module>
+		<Module name="Computer" id="Computer" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Computer.tbl</URL>
+			<Size>1550</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>05fc29193d99717badd9c7239c0b4fc6</MD5>
+		</Module>
+		<Module name="Cooking for Blockheads" id="cookingforblockheads" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/CookingForBlockheads_1.12.2-6.3.26.jar</URL>
+			<Size>497100</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>f2f008d4be93a83f36f3dac54bc87fc6</MD5>
+			<Meta>
+				<credits>BlayTheNinth</credits>
+				<description>Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory.</description>
+				<version>6.3.26</version>
+				<url></url>
+				<authors>BlayTheNinth</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/cookingforblockheads.cfg</URL>
+				<Path>config/cookingforblockheads.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>4bff10701ddc2dc2eff78d47d1d317b1</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/toughasnails/block_temperature.json</URL>
+				<Path>config/toughasnails/block_temperature.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>53fb9a4d8a1089649a000d98b46ce31e</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="CoroUtil Library" id="coroutil" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/coroutil-1.12.1-1.1.24.jar</URL>
+			<Size>1712672</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>5853d9b510169def74e0db948801d219</MD5>
+			<Meta>
+				<credits>I&apos;d like to thank Coro, Corosauce, and CordonFreeman for making this possible</credits>
+				<description>Collection of systems and helper code for Corosus&apos;s mods</description>
+				<version>1.12.1-1.1.24</version>
+				<url>http://Coros.us/</url>
+				<authors>Corosus</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/CoroUtil.cfg</URL>
+				<Path>config/CoroUtil.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>18ae087b5b0c089f6dec19dbfa593ce5</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/CoroUtil_DynamicDifficulty.cfg</URL>
+				<Path>config/CoroUtil_DynamicDifficulty.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>a55a420005cd80916afb56fb1db22806</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="CosmeticArmorReworked" id="cosmeticarmorreworked" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/CosmeticArmorReworked-1.12.2-v1.jar</URL>
+			<Size>54083</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8599773c16ca34988df88eaa233cca14</MD5>
+			<Meta>
+				<credits>dmillerw - original author; azanor - some code learned from baubles; izuminya - button icon; Deph0 and sblectric for their support when i&apos;m absent</credits>
+				<description>This mod allows you to wear two sets of armor, one for display, one for function. You can also hide armor for your skin. For PVP, you can stop the mod from functioning on your client side.</description>
+				<version>1.12.2-v1</version>
+				<url>https://github.com/zlainsama/cosmeticarmorreworked</url>
+				<authors>zlainsama</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/cosmeticarmorreworked.cfg</URL>
+				<Path>config/cosmeticarmorreworked.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>6b7a72989e3185ec96f5c128e0876013</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Crown" id="Crown" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Crown.tbl</URL>
+			<Size>1195</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>5493fd1171415eeaca1cd487cd57b171</MD5>
+		</Module>
+		<Module name="CTM" id="ctm" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/CTM-MC1.12-0.2.3.12.jar</URL>
+			<Size>181856</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>f67d95bb874571c2b77517654593b23f</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Allows resource packs to add connected textures, emissive rendering, and much more.</description>
+				<version>MC1.12-0.2.3.12</version>
+				<url>https://minecraft.curseforge.com/projects/ctm</url>
+				<authors>tterrag, Drullkus, minecreatr</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/ctm.cfg</URL>
+				<Path>config/ctm.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>ca9092804c3d5576e34098746b2843ff</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Cute Ocelot Hat" id="CuteOcelotHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/DJFLuFFy_vs_joe&apos;s%20Collection/Cute%20Ocelot%20Hat.tbl</URL>
+			<Size>4119</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>c1655637db120427e8da1a21b4e464b5</MD5>
+		</Module>
+		<Module name="Cute Walrus" id="CuteWalrus" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/Cute%20Walrus.tbl</URL>
+			<Size>2054</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>036bafd193e6b2224f489988b68ba5b1</MD5>
+		</Module>
+		<Module name="Dalek Hat" id="DalekHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Dalek%20Hat.tbl</URL>
+			<Size>1453</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>25e0d75f1a4e2ff7d5eb55823ea8c0c6</MD5>
+		</Module>
+		<Module name="Davinci&apos;s Vessels" id="davincisvessels" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/davincisvessels-1.12-6.340-full.jar</URL>
+			<Size>538295</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>fd744ba7fbc7647a062ffdd3b3f86bf5</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Craft and create your own ship...
+And sail it across the seven seas!</description>
+				<version>1.12-6.340</version>
+				<url>http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2364835</url>
+				<authors>darkevilmac (Maintainer), BalkondeurAlpha (Original Author)</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/davincisvessels.cfg</URL>
+				<Path>config/davincisvessels.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>96a961c39f61dbe5292540e884fa4a5d</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="DiscordSuite" id="discordsuite" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/DiscordSuite-2.0.1.jar</URL>
+			<Size>631082</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>45b7d4e421e3bbec6d427acc14dfbe3f</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Discord Integration.</description>
+				<version>2.0.1</version>
+				<url></url>
+				<authors>Coded</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/DiscordSuite.cfg</URL>
+				<Path>config/DiscordSuite.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>6a5ea34c6afd938672bf997f527a56bf</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Dynamic Surroundings" id="dsurround" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/DynamicSurroundings-1.12.2-3.4.7.2.jar</URL>
+			<Size>22055819</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ce790d3dcef5e776d1f7254e53e1d014</MD5>
+			<Meta>
+				<credits>Wirsbo for BetterRain; MrRube for Aurora Rubealis; Hurricaaane for Presence Footsteps and MAtmos; Mr_okushama for Battle Music; Ezer&apos;Arch for Galacticraft configurations</credits>
+				<description>Adds a variety of sound and visual effects to improve your Minecraft experience</description>
+				<version>1.12.2-3.4.7.2</version>
+				<url>https://github.com/OreCruncher/DynamicSurroundings/wiki</url>
+				<authors>OreCruncher, Abastro</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/dsurround/dsurround.cfg</URL>
+				<Path>config/dsurround/dsurround.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>6300bd8963e387f6d5288a69d859a07a</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/presets/dsurround_emojis.presets</URL>
+				<Path>config/presets/dsurround_emojis.presets</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>99ffe058e32c6e0e6a7f39cd655490a0</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/presets/dsurround_skyblock.presets</URL>
+				<Path>config/presets/dsurround_skyblock.presets</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>b85e94a25f06eff888fc0d3e946ef815</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/presets/dsurround_turnalloff.presets</URL>
+				<Path>config/presets/dsurround_turnalloff.presets</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>f9aa3d5e16b8ea884c349a2b7dd9b0ed</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Dynamic Trees" id="dynamictrees" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/DynamicTrees-1.12.2-0.7.5b.jar</URL>
+			<Size>528259</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>04476df8ab99deb9a24524c19fce2473</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Progressively growing trees.. forests that spread</description>
+				<version>1.12.2-0.7.5b</version>
+				<url></url>
+				<authors>FerreusVeritas</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/dynamictrees.cfg</URL>
+				<Path>config/dynamictrees.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>1e122a377f8c26275d92ea9d261a8a87</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Dynamic Trees BOP" id="dynamictreesbop" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/dynamictreesbop-alpha+3.jar</URL>
+			<Size>425763</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>9cde9205dd9db8e8086ae424139bdfa9</MD5>
+			<Meta>
+				<credits>ferreusveritas</credits>
+				<description>Adding Dynamic Trees compatability for Biomes O&apos; Plenty</description>
+				<version>alpha 3</version>
+				<url></url>
+				<authors>mangoose</authors>
+			</Meta>
+		</Module>
+		<Module name="Encouragement" id="Encouragement" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Encouragement.tbl</URL>
+			<Size>1456</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>74211ec7f0b5af1e7bba20a58a04668a</MD5>
+		</Module>
+		<Module name="Ender Chest" id="EnderChest" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Ender%20Chest.tbl</URL>
+			<Size>3590</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>866c9d3072fa7f0c3c56ea39e90b74b7</MD5>
+		</Module>
+		<Module name="Extra Alchemy" id="extraalchemy" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/extraalchemy-0.3.8.2-release.jar</URL>
+			<Size>211408</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4e76209a08de89f269de93c2569b7ec4</MD5>
+			<Meta>
+				<credits>Some textures by wiiv, Dislocation Potion based on a /u/MasterDisaster64&apos;s idea</credits>
+				<description>An expansion on vanilla alchemy</description>
+				<version>0.3.8.2-release</version>
+				<url>http://minecraft.curseforge.com/projects/extra-alchemy</url>
+				<authors>ZaBi94</authors>
+			</Meta>
+		</Module>
+		<Module name="Extra Rails" id="ExtraRails" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/ExtraRails-1.12-1.3.0.jar</URL>
+			<Size>53565</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>c8e2e99c7559b775283f867e8e436205</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Additional Minecart rails.</description>
+				<version>1.12-1.3.0</version>
+				<url>http://github.com/shadowfacts/ExtraRails</url>
+				<authors>Shadowfacts</authors>
+			</Meta>
+		</Module>
+		<Module name="Facehugger" id="Facehugger" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Facehugger.tbl</URL>
+			<Size>2125</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>2dad5f631d634e5953b95236b8e49679</MD5>
+		</Module>
+		<Module name="Familiar Fauna" id="familiarfauna" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/FamiliarFauna-1.12.2-1.0.4.jar</URL>
+			<Size>217527</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>af12ca7a1dbfdc646c0e6cb24e82935a</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Adds new, realistic mobs to enhance Minecraft!</description>
+				<version>1.0.4</version>
+				<url>https://minecraft.curseforge.com/projects/familiar-fauna</url>
+				<authors>Forstride</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/familiarfauna/config.cfg</URL>
+				<Path>config/familiarfauna/config.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>285c9728b993560c3ae75f14d51e4bd0</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Fence Jumper" id="fencejumper" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/fencejumper-1.12-1.0.3.jar</URL>
+			<Size>5028</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>cbcbc7836fe9349bff10696dfd1ff7e0</MD5>
+			<Meta>
+				<credits>p455w0rd</credits>
+				<description>Easily jump over fences</description>
+				<version>1.12-1.0.3</version>
+				<url></url>
+				<authors>p455w0rd aka TheRealp455w0rd</authors>
+			</Meta>
+		</Module>
+		<Module name="Fez" id="Fez" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Fez.tbl</URL>
+			<Size>1078</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>777701041830f25ba560ded6efed024d</MD5>
+		</Module>
+		<Module name="Fez Sideways" id="FezSideways" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Fez%20Sideways.tbl</URL>
+			<Size>1140</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8b224ebb4227a4046195d691c3d8cb4e</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/fastcraft.ini</URL>
+				<Path>config/fastcraft.ini</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>b6635e35afd820478a156f39eb6033ba</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Flat Colored Blocks" id="flatcoloredblocks" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/flatcoloredblocks-mc1.12-6.6.jar</URL>
+			<Size>136082</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>9a42ce9b36f313751355476656a94adb</MD5>
+			<Meta>
+				<credits>AlgorithmX2</credits>
+				<description>A Minecraft mod about building with vast quantities of colored blocks.</description>
+				<version>mc1.12-6.6</version>
+				<url>http://minecraft.curseforge.com/projects/flat-colored-blocks</url>
+				<authors>AlgorithmX2</authors>
+			</Meta>
+		</Module>
+		<Module name="Flowers in a Hat" id="FlowersinaHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/Flowers%20in%20a%20Hat.tbl</URL>
+			<Size>1351</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>a56cde51bd764ee183bcd8c8abd17d84</MD5>
+		</Module>
+		<Module name="Flying Pig Hat" id="FlyingPigHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Flying%20Pig%20Hat.tbl</URL>
+			<Size>4560</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>aab34c00639d87c6236a032305310bee</MD5>
+		</Module>
+		<Module name="Foam Finger" id="FoamFinger" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Foam%20Finger.tbl</URL>
+			<Size>1412</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>dc316aa0857d24f8bcde9721c6351e83</MD5>
+		</Module>
+		<Module name="FoamFix" id="foamfix" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/foamfix-0.9.5-1.12.2-anarchy.jar</URL>
+			<Size>207270</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>7ae466348214b43036850784d61eb919</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Questionable &quot;performance improvements&quot; that are not in Forge for probably very good reasons.</description>
+				<version>@VERSION@</version>
+				<url>http://asie.pl/Projects/Minecraft/Mods/FoamFix</url>
+				<authors>asiekierka</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/foamfix.cfg</URL>
+				<Path>config/foamfix.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>1d3f66d0cd0e3e39982bbad3d9cd36a2</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Frankenstein" id="Frankenstein" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Frankenstein.tbl</URL>
+			<Size>750</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>a9f76969fa2b718d526fc398c3ac360a</MD5>
+		</Module>
+		<Module name="Friendly Fire" id="friendlyfire" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/FriendlyFire-1.12.2-1.5.8.jar</URL>
+			<Size>6148</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>033f1445c04b4c699a850dc8922a5042</MD5>
+			<Meta>
+				<credits>All the dead pets.</credits>
+				<description>Stop hurting your friends :&apos;(</description>
+				<version>1.5.8</version>
+				<url></url>
+				<authors>Darkhax</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/friendlyfire.cfg</URL>
+				<Path>config/friendlyfire.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>25ee6584a3c018720677a2e3a1d1e015</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Fro Hat" id="FroHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/Fro%20Hat.tbl</URL>
+			<Size>30524</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>53dbb3dc9a154c7df1d735d3407ceaa3</MD5>
+		</Module>
+		<Module name="Frog Hat" id="FrogHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Frog%20Hat.tbl</URL>
+			<Size>2411</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>e54e2b9b1d3da2ef5c8fe96f380fddb3</MD5>
+		</Module>
+		<Module name="GeographiCraft-1.12-0.8.9b" id="GeographiCraft-.-..b" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/GeographiCraft-1.12-0.8.9b.jar</URL>
+			<Size>402774</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>0b2165b05a7b3851273691e4126b2e4e</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/GeographiCraft/biomesoplentyInCC.cfg</URL>
+				<Path>config/GeographiCraft/biomesoplentyInCC.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>68a1d0bdaba6e4e8a6664dbb127b3283</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/GeographiCraft/CCDimensions.cfg</URL>
+				<Path>config/GeographiCraft/CCDimensions.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>f301b304e06b2f9abdba05d8b03d4768</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/GeographiCraft/geographicraft.cfg</URL>
+				<Path>config/GeographiCraft/geographicraft.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>38d97a2ecfcc2b2efc60d1e795da9cd6</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Ghastly Gibus" id="GhastlyGibus" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Ghastly%20Gibus.tbl</URL>
+			<Size>1494</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>7dce21b8e5060679c2a6f63d3d5a088e</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/toughasnails/drink_stats.json</URL>
+				<Path>config/toughasnails/drink_stats.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>58da8691c95becf5c1c659042185ffff</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="GlassHat" id="GlassHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/GlassHat.tbl</URL>
+			<Size>828</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>d14e6563023020772b8ef9a24967ea84</MD5>
+		</Module>
+		<Module name="Glove World" id="GloveWorld" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Glove%20World.tbl</URL>
+			<Size>3031</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>18d45d28ca3c6737ddca7d0ac0f1003f</MD5>
+		</Module>
+		<Module name="Googly Eyes" id="GooglyEyes" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Googly%20Eyes.tbl</URL>
+			<Size>1740</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>470874aaf089723f3557b96b9b75c327</MD5>
+		</Module>
+		<Module name="Gravestone Mod" id="gravestone" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/gravestone-1.10.1.jar</URL>
+			<Size>76022</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>d20de3163283cffe1620474e15da77d3</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Gravestone Mod</description>
+				<version>1.10.1</version>
+				<url>http://maxhenkel.de</url>
+				<authors>Max Henkel</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/gravestone.cfg</URL>
+				<Path>config/gravestone.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>ad059ca40104e9cb0fd7cdb5d86b8d33</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Guide-API" id="guideapi" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Guide-API-1.12-2.1.4-57.jar</URL>
+			<Size>164579</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>a4dd1381f5268cdf1184f33cb535afd9</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Simple mod guide creation.</description>
+				<version>1.12-2.1.4-57</version>
+				<url></url>
+				<authors>Tombenpotter, TehNut</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/Guide-API/Guide-API.cfg</URL>
+				<Path>config/Guide-API/Guide-API.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>46febc6f3e7e27aa84e5d3182090451a</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Hard Hat" id="HardHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hard%20Hat.tbl</URL>
+			<Size>1390</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b37c17e6c4705f7c6af8265e31fe7ae8</MD5>
+		</Module>
+		<Module name="Hatpants" id="Hatpants" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hatpants.tbl</URL>
+			<Size>1290</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>e5faa73467d04fcfa10544b948938593</MD5>
+		</Module>
+		<Module name="Hats" id="hats" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Hats-1.12.2-7.0.2.jar</URL>
+			<Size>299884</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>7ebaabf25a086c5ab85eba8ed9f3b704</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Adds a bunch of hats, as wells as the ability to add more, into Minecraft</description>
+				<version>1.12.2-7.0.2</version>
+				<url>http://ichun.me/mods/hats/</url>
+				<authors>iChun</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/hats.cfg</URL>
+				<Path>config/hats.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>1833ce11ff0a45bcd47804ca09f2fa6d</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Haunted Hat" id="HauntedHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr_Hazard&apos;s%20Collection/Haunted%20Hat.tbl</URL>
+			<Size>3178</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>0fa2487b2a702453568edae4529ad91a</MD5>
+		</Module>
+		<Module name="Headcrab" id="Headcrab" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Headcrab.tbl</URL>
+			<Size>2199</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>a3ba0e8cb12b62e3a546fe7108db2991</MD5>
+		</Module>
+		<Module name="Headphones" id="Headphones" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Headphones.tbl</URL>
+			<Size>969</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>e48f876feaef27f00a31844ef3cc8bbd</MD5>
+		</Module>
+		<Module name="Headset" id="Headset" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/Headset.tbl</URL>
+			<Size>1590</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>25d299bb25ec01db6a2ea8f5f10d4022</MD5>
+		</Module>
+		<Module name="Helicopter Hat" id="HelicopterHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Helicopter%20Hat.tbl</URL>
+			<Size>2398</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>15b723b95c05e61e89cf318da56bbe8b</MD5>
+		</Module>
+		<Module name="Hissing Hat" id="HissingHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hissing%20Hat.tbl</URL>
+			<Size>5305</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>f16fd3d5f86450788280db4ab4422e21</MD5>
+		</Module>
+		<Module name="Hot dogger" id="Hotdogger" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/Hot%20dogger.tbl</URL>
+			<Size>818</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>d0cfc58429a9fa094a5fe0e861faa6d3</MD5>
+		</Module>
+		<Module name="Hotdog Hotdog" id="HotdogHotdog" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/Hotdog%20Hotdog.tbl</URL>
+			<Size>1541</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b686a887e668e70de433e5147a5e037e</MD5>
+		</Module>
+		<Module name="HUD Hat" id="HUDHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/DJFLuFFy_vs_joe&apos;s%20Collection/HUD%20Hat.tbl</URL>
+			<Size>1667</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>2cfd2c5654b17864361d08fbf19b4b5c</MD5>
+		</Module>
+		<Module name="I&apos;m Different" id="I'mDifferent" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr_Hazard&apos;s%20Collection/I&apos;m%20Different.tbl</URL>
+			<Size>1291</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>c643866b649e3d355a34788960afbd0e</MD5>
+		</Module>
+		<Module name="Ice and Fire" id="iceandfire" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/iceandfire-1.4.0-1.12.2.jar</URL>
+			<Size>11016276</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>875021f8b2cf699a1a03c25fbf9166d7</MD5>
+			<Meta>
+				<credits>gegy1000, Paul Fulham, Zyranna, 4f6f3b, and iLexiconn - Thanks for all the help! Credits to Elucent and Sunconure11 for the initial 1.11.2 port!</credits>
+				<description>Ice and Fire shines a whole new light on dragons.</description>
+				<version>1.4.0</version>
+				<url></url>
+				<authors>Alexthe666, Raptorfarian</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/iceandfire.cfg</URL>
+				<Path>config/iceandfire.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>e755e6e911031f34c7f2009e03c2069a</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="iChunUtil" id="ichunutil" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/iChunUtil-1.12.2-7.1.4.jar</URL>
+			<Size>550812</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b81dab6549018c7b4b7829d30ef1d777</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Shared library mod required by several of iChun&apos;s Mods.</description>
+				<version>1.12.2-7.1.4</version>
+				<url>http://ichun.me/mods/ichunutil/</url>
+				<authors>iChun</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/ichunutil.cfg</URL>
+				<Path>config/ichunutil.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>36cffc5bc46388eca860e83b320fa00d</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/ichunutil_keybinds.cfg</URL>
+				<Path>config/ichunutil_keybinds.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>8fe84d71929e951faf80a3822d4efa46</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Immersive Engineering" id="immersiveengineering" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/ImmersiveEngineering-0.12-80.jar</URL>
+			<Size>5979255</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>d67baa582cf8ddc334d6fa5a4508a57e</MD5>
+			<Meta>
+				<credits>All the great other Git Contributors, and the nerds on IRC!</credits>
+				<description>A tech based mod focused on realism.</description>
+				<version>0.12-80</version>
+				<url>https://github.com/BluSunrize/ImmersiveEngineering</url>
+				<authors>BluSunrize, Damien A.W. Hazard</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/immersiveengineering.cfg</URL>
+				<Path>config/immersiveengineering.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>0636f32ea94d28328cbff81ee1d0f545</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Immersive Petroleum" id="immersivepetroleum" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/immersivepetroleum-1.12.2-1.1.9.jar</URL>
+			<Size>906018</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>57ba127778e579d10d705f9f8359d2e0</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Adds oil and oil processing features to Immersive Engineering.</description>
+				<version>1.1.9</version>
+				<url>https://github.com/Flaxbeard/ImmersivePetroleum</url>
+				<authors>Flaxbeard</authors>
+			</Meta>
+		</Module>
+		<Module name="ImmersiveEngineering-0.12-80-core" id="ImmersiveEngineering-.--core" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/ImmersiveEngineering-0.12-80-core.jar</URL>
+			<Size>7604</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>26ad74b7e18bc79c6e5aaded123281be</MD5>
+		</Module>
+		<Module name="Inhaler" id="Inhaler" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr_Hazard&apos;s%20Collection/Inhaler.tbl</URL>
+			<Size>3887</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>3d89b09cf2c600198f504f9a63c94c15</MD5>
+		</Module>
+		<Module name="InstantUnify" id="instantunify" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/instantunify-1.12.2-1.1.1.jar</URL>
+			<Size>9188</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>0b691496ab7e1903f3441ed0fb192512</MD5>
+			<Meta>
+				<credits>The Forge and FML guys, for making this example</credits>
+				<description>Unifies oredicted items automatically</description>
+				<version>1.12.2-1.1.1</version>
+				<url></url>
+				<authors>MrRiegel</authors>
+			</Meta>
+		</Module>
+		<Module name="Inventory Tweaks" id="InvTweaks" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/InventoryTweaks-1.63.jar</URL>
+			<Size>263258</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>1e2e33e5710394252abc4b014bc3dcbd</MD5>
+			<Meta>
+				<credits>By Jimeo Wan, updated for Forge by Kobata</credits>
+				<description>Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items.</description>
+				<version>1.63+release.109.220f184</version>
+				<url>https://github.com/Kobata/inventory-tweaks</url>
+				<authors>Jimeo Wan, Kobata</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/InvTweaks.cfg</URL>
+				<Path>config/InvTweaks.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>ee0aaa9c7c7176c293d0eecf6096db06</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/InvTweaksRules.txt</URL>
+				<Path>config/InvTweaksRules.txt</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>92d24282b6449e90a1ce9ca621c7f43e</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/InvTweaksTree.txt</URL>
+				<Path>config/InvTweaksTree.txt</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>6e603441d60e9330b0ceb8fd9dc5eec1</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Iron Backpacks" id="ironbackpacks" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/IronBackpacks-1.12.2-3.0.5-6.jar</URL>
+			<Size>461050</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>1dceb5a6a0d818e8b28b4a27f6eb3b9b</MD5>
+			<Meta>
+				<credits>cpw, sapient, #minecraftforge (especially diesieben07), TehNut, tterrag</credits>
+				<description>Adds tiered backpacks and a system of modular upgrades to go with them!</description>
+				<version>1.12.2-3.0.5-6</version>
+				<url></url>
+				<authors>gr8pefish</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/ironbackpacks/blacklist.json</URL>
+				<Path>config/ironbackpacks/blacklist.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>19e53c088151fce167b25ccde6f3e0c4</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/ironbackpacks/ironbackpacks.cfg</URL>
+				<Path>config/ironbackpacks/ironbackpacks.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>38f0b0291042d0c651078ea5a1c70e7e</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Iron Chest" id="ironchest" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/ironchest-1.12.2-7.0.40.824.jar</URL>
+			<Size>1101965</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>dd941ee283cfc5507ed846a1f52e67be</MD5>
+			<Meta>
+				<credits>By cpw, based on an original idea by Lishid</credits>
+				<description>New chests with larger sizes, with in-place upgrade items.
+The feature chest is the crystal chest, which is transparent - some inventory contents are visible without opening the chest</description>
+				<version>1.12.2-7.0.40.824</version>
+				<url>http://www.minecraftforum.net/topic/981855-</url>
+				<authors>cpw</authors>
+			</Meta>
+		</Module>
+		<Module name="IvToolkit" id="IvToolkit" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/IvToolkit-1.3.3-1.12.jar</URL>
+			<Size>455763</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>f1a23cb6eaa682240c0ecdab65e7857f</MD5>
+			<Meta>
+				<credits></credits>
+				<description>This is a framework that I mostly use in my own mods, for shared functionality.</description>
+				<version>1.3.3-1.12</version>
+				<url>http://minecraft.curseforge.com/projects/ivtoolkit</url>
+				<authors>Ivorius</authors>
+			</Meta>
+		</Module>
+		<Module name="Jar &apos;o Brain" id="Jar'oBrain" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Jar%20&apos;o%20Brain.tbl</URL>
+			<Size>1417</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>293201cd15568db1a8cf485475aac96c</MD5>
+		</Module>
+		<Module name="Jeremy" id="Jeremy" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Jeremy.tbl</URL>
+			<Size>4369</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>9f050682f96c57c4b97793a950fa9547</MD5>
+		</Module>
+		<Module name="Jester" id="Jester" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Jester.tbl</URL>
+			<Size>5251</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>f82c357a4a46e9280938d9106f069822</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/Weather2/Snow.cfg</URL>
+				<Path>config/Weather2/Snow.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>16b7c37a3c2bf713513e40643ed02172</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Just Enough Items" id="jei" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/jei_1.12.2-4.8.5.147.jar</URL>
+			<Size>537164</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>e556b45af65f954b53e776a138826067</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Simple recipe and item helper.</description>
+				<version>4.8.5.147</version>
+				<url>https://github.com/mezz/JustEnoughItems</url>
+				<authors>mezz</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/jei/itemBlacklist.cfg</URL>
+				<Path>config/jei/itemBlacklist.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>6cf8e47a987c812751926117569c5a16</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/jei/jei.cfg</URL>
+				<Path>config/jei/jei.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>5a39a32b232a33e2739e09517404aa15</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/jei/searchColors.cfg</URL>
+				<Path>config/jei/searchColors.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>585c420ac4e5433c27837a588927a0c0</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/jei/worldSettings.cfg</URL>
+				<Path>config/jei/worldSettings.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>22b75b8957d8d50357aaf0815bb0b696</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Just Enough Resources" id="jeresources" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/JustEnoughResources-1.12.2-0.8.5.27.jar</URL>
+			<Size>213675</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>27533ed3008d56108ea637195e485c33</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Adds Resources and Mob Drops to JEI</description>
+				<version>0.8.5</version>
+				<url></url>
+				<authors>way2muchnoise</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/jeresources/jeresources.cfg</URL>
+				<Path>config/jeresources/jeresources.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>4707657ac8e553ac26e969909b1d2602</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="LagGoggles" id="laggoggles" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/LagGoggles-FORGE-1.12.2-4.1.jar</URL>
+			<Size>3806071</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>508e3da28e01551d9e140eaf033c18af</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Find lag on the server with ease.</description>
+				<version>1.12.2-4.1</version>
+				<url>https://minecraft.curseforge.com/projects/laggoggles</url>
+				<authors>Terminator_NL</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/LagGoggles-client.cfg</URL>
+				<Path>config/LagGoggles-client.cfg</Path>
+				<NoOverwrite>true</NoOverwrite>
+				<MD5>40aa6637d4d98e5fb14fb4c6b6559697</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/LagGoggles-server.cfg</URL>
+				<Path>config/LagGoggles-server.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>847df9452b54c91f0fead32bed5f7f65</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Lego Hat" id="LegoHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Lego%20Hat.tbl</URL>
+			<Size>3136</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ef5a038f2f0cf0f58575df882be4875f</MD5>
+		</Module>
+		<Module name="Leprechaun Hat" id="LeprechaunHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Leprechaun%20Hat.tbl</URL>
+			<Size>1170</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>3a2520ff779e9a575adb9112e826a9c0</MD5>
+		</Module>
+		<Module name="Literal Cat in the Hat hat" id="LiteralCatintheHathat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/Literal%20Cat%20in%20the%20Hat%20hat.tbl</URL>
+			<Size>3578</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>723c945715817f48794fc73375654048</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/toughasnails/material_temperature.json</URL>
+				<Path>config/toughasnails/material_temperature.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>06334f2dc3705563e27e5f553b4f03bd</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/Weather2/EZGUIConfigClientData.dat</URL>
+				<Path>config/Weather2/EZGUIConfigClientData.dat</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>0d4659d0b9b2306643306492b91f7aa2</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="LLibrary" id="llibrary" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/llibrary-1.7.9-1.12.jar</URL>
+			<Size>1177377</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>df818c42c1fc21e6beb71b86a1a2b6b6</MD5>
+			<Meta>
+				<credits>gegy1000, pau101, BobMowzie, FiskFille, TheCyberBrick, WorldSEnder</credits>
+				<description>The lightweight Minecraft modding library</description>
+				<version>1.7.9-1.12</version>
+				<url>https://github.com/iLexiconn/LLibrary</url>
+				<authors>iLexiconn</authors>
+			</Meta>
+		</Module>
+		<Module name="LunatriusCore" id="lunatriuscore" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/LunatriusCore-1.12.2-1.2.0.42-universal.jar</URL>
+			<Size>76753</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>0dae43ef5376822db0399ad254207aa3</MD5>
+			<Meta>
+				<credits></credits>
+				<description>A collection of utilities for Lunatrius&apos; mods.</description>
+				<version>1.2.0.42</version>
+				<url>http://mc.lunatri.us/</url>
+				<authors>Lunatrius</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/lunatriuscore.cfg</URL>
+				<Path>config/lunatriuscore.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>f12267ff6480bae77adc78bc1020532e</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/Weather2/Storm.cfg</URL>
+				<Path>config/Weather2/Storm.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>fcee4e5191d0634f7e39ced889c5a097</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Magical Psi" id="magipsi" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/MagicalPsi-1.3.jar</URL>
+			<Size>1437801</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>3178661b4dd74b9abaf0040b05275651</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Magical Psionic Spellcasting Instruments</description>
+				<version>1.0</version>
+				<url></url>
+				<authors>wiiv, Vazkii</authors>
+			</Meta>
+		</Module>
+		<Module name="Mantle" id="mantle" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Mantle-1.12-1.3.1.21.jar</URL>
+			<Size>865513</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>d194c9461c96e4e4c330931247a7a0dd</MD5>
+			<Meta>
+				<credits>mDiyo, Sunstrike</credits>
+				<description>Shared code for Slime Knights mods and others.</description>
+				<version>1.3.1.21</version>
+				<url>https://github.com/SlimeKnights/Mantle</url>
+				<authors>boni, progWML6, Alexbegt</authors>
+			</Meta>
+		</Module>
+		<Module name="Marx Glasses" id="MarxGlasses" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/The_Mushroomcow&apos;s%20Collection/Marx%20Glasses.tbl</URL>
+			<Size>1382</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>621f09145fa87be16df2b77484233c3d</MD5>
+		</Module>
+		<Module name="McJtyLib" id="mcjtylib_ng" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/mcjtylib-1.12-2.6.6.jar</URL>
+			<Size>370523</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>7f8062bf26dd500509a87ec2c59ecaa8</MD5>
+			<Meta>
+				<credits>diesieben07, for being of constant assistance with my questions on modding and Forge in specific</credits>
+				<description>McJtyLib library for RFTools, Deep Resonance, ...</description>
+				<version>1.12-2.6.6-SNAPSHOT</version>
+				<url></url>
+				<authors>McJty</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/mcjtylib.cfg</URL>
+				<Path>config/mcjtylib.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>4167cd5b8a07c11953a6006564bd5edb</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Miner Hat" id="MinerHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Miner%20Hat.tbl</URL>
+			<Size>1370</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>c2afd264637125f04a0ddb6b9c47d98e</MD5>
+		</Module>
+		<Module name="Mini Minecart" id="MiniMinecart" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mini%20Minecart.tbl</URL>
+			<Size>1578</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>9b55e982004b3f805d12452db610124d</MD5>
+		</Module>
+		<Module name="ModJam Hat" id="ModJamHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/ModJam%20Hat.tbl</URL>
+			<Size>1825</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>36aad21e40f2e835a5e5364c23dbf9d6</MD5>
+		</Module>
+		<Module name="Mooshroom Hat" id="MooshroomHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/The_Mushroomcow&apos;s%20Collection/Mooshroom%20Hat.tbl</URL>
+			<Size>1670</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>54c5466dbc7f828e97b0feb52edacdaf</MD5>
+		</Module>
+		<Module name="Morpheus" id="morpheus" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Morpheus-1.12-3.3.2.jar</URL>
+			<Size>20837</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>6beb6c9b45a6526106f728ec35508a0c</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate.</description>
+				<version>1.12-3.3.2</version>
+				<url>http://www.curse.com/mc-mods/Minecraft/morpheus</url>
+				<authors>Quetzi</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/morpheus.cfg</URL>
+				<Path>config/morpheus.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>18502f550fb8d8eefc1bad1b9d9e5b94</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Mouse Tweaks" id="mousetweaks" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/MouseTweaks-2.8-mc1.12.1.jar</URL>
+			<Size>68793</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>34343a214952bd0631e7692b1bf6e586</MD5>
+			<Meta>
+				<credits>Various open-source mods from where I learned.</credits>
+				<description>A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons.</description>
+				<version>2.8</version>
+				<url>http://www.minecraftforum.net/topic/1518185-</url>
+				<authors>YaLTeR</authors>
+			</Meta>
+		</Module>
+		<Module name="Moviemaker&apos;s Portable Setup" id="Moviemaker'sPortableSetup" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Portalcrafter51&apos;s%20Collection/Moviemaker&apos;s%20Portable%20Setup.tbl</URL>
+			<Size>3039</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>7aabb30eaf1c7eb2768b7762172fed6c</MD5>
+		</Module>
+		<Module name="Moving World" id="MovingWorld" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/movingworld-1.12-6.342-full.jar</URL>
+			<Size>1255887</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>9ef54bc4402d703fda1ce74113edad34</MD5>
+			<Meta>
+				<credits></credits>
+				<description>A Library for allowing the movement of collections of blocks and tile entities.</description>
+				<version>1.12-6.342</version>
+				<url></url>
+				<authors>Darkevilmac, Large portions of code based on Archimedes&apos; Ships</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/loadingprofiler.cfg</URL>
+				<Path>config/loadingprofiler.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>7fdb3415ad516082bbe20774443063da</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/MovingWorld/AssemblePriority.cfg</URL>
+				<Path>config/MovingWorld/AssemblePriority.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>740be4a852e45dd116564c4ea430546e</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/MovingWorld/Main.cfg</URL>
+				<Path>config/MovingWorld/Main.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>384ccedd564e351e1fc0af75c1880bb4</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Mr. Bubbles" id="Mr.Bubbles" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr.%20Bubbles.tbl</URL>
+			<Size>2967</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4fbc950451ae03e658bb1eaed48c0f5f</MD5>
+		</Module>
+		<Module name="Mr. T" id="Mr.T" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr.%20T.tbl</URL>
+			<Size>5271</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>265df5660bd24b63dad68ff8ca1d83af</MD5>
+		</Module>
+		<Module name="Mr.Hazard&apos;s mask" id="Mr.Hazard'smask" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr_Hazard&apos;s%20Collection/Mr.Hazard&apos;s%20mask.tbl</URL>
+			<Size>2518</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>445952397e0e08264cbcf57d6ede2bc8</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/Mercurius.cfg</URL>
+				<Path>config/Mercurius.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>e09faf9b957b5cad75392105cd32648e</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="MTQ fix" id="mtqfix" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/mtqfix-1.12.2-1.1.0.jar</URL>
+			<Size>7539</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>a4be829c315d1b22fe00a13a87a40c4f</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Disables &apos;Moving Too Quickly&apos; and &apos;Moved Wrongly&apos; SMP features</description>
+				<version>1.12.2-1.1.0</version>
+				<url>https://www.curseforge.com/minecraft/mc-mods/mtqfix</url>
+				<authors>kmarple1, The009</authors>
+			</Meta>
+		</Module>
+		<Module name="Nature&apos;s Compass" id="naturescompass" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/NaturesCompass-1.12.2-1.5.1.jar</URL>
+			<Size>180209</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8a1c19eb3a656ba4a577ba9864399540</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Search for a biome and get information about it.</description>
+				<version>1.12.2-1.5.1</version>
+				<url>https://minecraft.curseforge.com/projects/natures-compass</url>
+				<authors>ChaosTheDude</authors>
+			</Meta>
+		</Module>
+		<Module name="Norwegian Flag" id="NorwegianFlag" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Norwegian%20Flag.tbl</URL>
+			<Size>760</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8c7a1ef794059648dea44612d2f538f8</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/forgeChunkLoading.cfg</URL>
+				<Path>config/forgeChunkLoading.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>95ba05ef01861ee260b40c95e9cc5aec</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="NotEnoughIDs" id="neid" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/NotEnoughIDs-1.5.4.2.jar</URL>
+			<Size>31808</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>0d5f584255c5edbe94cf1f6a6feacf96</MD5>
+			<Meta>
+				<credits>immibis for MinecraftForkage code, VikeStep and GloomyFolken for their coremod tutorials</credits>
+				<description>Extends hardcoded block ID limit.</description>
+				<version>1.5.4.2</version>
+				<url></url>
+				<authors>fewizz, Player</authors>
+			</Meta>
+		</Module>
+		<Module name="Nyan Hat" id="NyanHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Nyan%20Hat.tbl</URL>
+			<Size>1344</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>acd6c3099ed05cc53cb312e5c910ab1b</MD5>
+		</Module>
+		<Module name="One Man Army" id="OneManArmy" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr_Hazard&apos;s%20Collection/One%20Man%20Army.tbl</URL>
+			<Size>4355</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>3953c95f314d86161e1f65c1fd7d524a</MD5>
+		</Module>
+		<Module name="OptiFine_1.12.2_HD_U_D1" id="OptiFine_.._HD_U_D" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/OptiFine_1.12.2_HD_U_D1.jar</URL>
+			<Size>2372821</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4bfc1c95dde8ec08568e01bfaa61e7c5</MD5>
+		</Module>
+		<Module name="Overdose" id="Overdose" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Overdose.tbl</URL>
+			<Size>2467</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>2186b61afc3b0534e759ab461e472a50</MD5>
+		</Module>
+		<Module name="PahiHat" id="PahiHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/PahiHat.tbl</URL>
+			<Size>3031</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>770e0c2941131d548ad1fc2d0c28fd84</MD5>
+		</Module>
+		<Module name="Pam&apos;s HarvestCraft" id="harvestcraft" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Pam&apos;s+HarvestCraft+1.12.2r.jar</URL>
+			<Size>4180668</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8e9908da681649691d7244bf321872ed</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Expanding minecraft&apos;s food system.</description>
+				<version>1.12a</version>
+				<url>http://minecraft.curseforge.com/members/MatrexsVigil/projects</url>
+				<authors>Pamela Collins</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/harvestcraft.cfg</URL>
+				<Path>config/harvestcraft.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>8cbe13fe60622d62894337c31759ab24</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Panda Ushanka" id="PandaUshanka" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/The_Mushroomcow&apos;s%20Collection/Panda%20Ushanka.tbl</URL>
+			<Size>2230</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>a5b6b8e1c1e14f6255008f3be76d28e9</MD5>
+		</Module>
+		<Module name="Party Hat (With Party Blower)" id="PartyHat(WithPartyBlower" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/The_Mushroomcow&apos;s%20Collection/Party%20Hat%20(With%20Party%20Blower).tbl</URL>
+			<Size>1819</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8d4795dc6511e608cd752bcd0c66ced8</MD5>
+		</Module>
+		<Module name="Pickaxe in Head" id="PickaxeinHead" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Pickaxe%20in%20Head.tbl</URL>
+			<Size>2743</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>06fcea5a18756866e10d5b4a298176d5</MD5>
+		</Module>
+		<Module name="Pig Hat" id="PigHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Pig%20Hat.tbl</URL>
+			<Size>4541</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b12793bf53ed53fbf58ad04f12151f00</MD5>
+		</Module>
+		<Module name="Pillar Hat" id="PillarHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/Pillar%20Hat.tbl</URL>
+			<Size>2275</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>e5d2c8dd234de58088cb8014b8ab0067</MD5>
+		</Module>
+		<Module name="Pistontop" id="Pistontop" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Pistontop.tbl</URL>
+			<Size>3107</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>df559194e6a49f255ef69067f0a3d6d3</MD5>
+		</Module>
+		<Module name="PlumbBob" id="PlumbBob" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/PlumbBob.tbl</URL>
+			<Size>18130</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>80603ddf53ada87ae539741b588e4c12</MD5>
+		</Module>
+		<Module name="Plunger Hat" id="PlungerHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Plunger%20Hat.tbl</URL>
+			<Size>1098</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>e354e8e0a5c756ca4d64b8f3cd56efdc</MD5>
+		</Module>
+		<Module name="Ponytail" id="Ponytail" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/The_Mushroomcow&apos;s%20Collection/Ponytail.tbl</URL>
+			<Size>1029</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>9369d1c00a03ac9b072b051997db45e8</MD5>
+		</Module>
+		<Module name="Pool Toy Hat" id="PoolToyHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/Pool%20Toy%20Hat.tbl</URL>
+			<Size>2037</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>9a2da72b31985957d62d54d06d76f7e2</MD5>
+		</Module>
+		<Module name="Poolhat" id="Poolhat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Poolhat.tbl</URL>
+			<Size>1768</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>6716c00bd1aa5ad93a21ddc0189ad23e</MD5>
+		</Module>
+		<Module name="Portable Jukebox" id="PortableJukebox" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Portalcrafter51&apos;s%20Collection/Portable%20Jukebox.tbl</URL>
+			<Size>4219</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>3f296fd87cb3513d3c5fdf43b92f6006</MD5>
+		</Module>
+		<Module name="Potion Core" id="potioncore" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/PotionCore-1.6_for_1.12.2.jar</URL>
+			<Size>141297</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>1bfb2f1637ec6d477f1d4d3ba07b876d</MD5>
+			<Meta>
+				<credits>Made by Tmtravlr with help with configs from Father Toast. Also thanks for suggestions and help from many others like Akitori, Darkmega, Snow Shepherd, Master Hill, The Old One, and Bio.</credits>
+				<description>Mod with tons of serious, silly, and awesome potions!</description>
+				<version>1.6_for_1.12.2</version>
+				<url></url>
+				<authors>Tmtravlr, Father Toast</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/potioncore.cfg</URL>
+				<Path>config/potioncore.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>9b57b3e664d72a09d7bfda8c264b8fcf</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/signpost/signpost.cfg</URL>
+				<Path>config/signpost/signpost.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>69e8b105b10cf02b812621bef6e3f512</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Present Hat" id="PresentHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/The_Mushroomcow&apos;s%20Collection/Present%20Hat.tbl</URL>
+			<Size>2439</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>c6ff3ed4e0d79b2478f10e2ff8f0fa1e</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/pregenerator/ClientConfig.cfg</URL>
+				<Path>config/pregenerator/ClientConfig.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>99ae4c24599e283382f49d1a5fcfea1b</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/pregenerator/ExampleFile.txt</URL>
+				<Path>config/pregenerator/ExampleFile.txt</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>4ede3b42b9dbfa53791a5509c654e627</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/pregenerator/PregenConfig.cfg</URL>
+				<Path>config/pregenerator/PregenConfig.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>38c91477db520e823b2290181de81d49</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Psi" id="psi" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Psi-r1.1-59.jar</URL>
+			<Size>2177817</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>92aec994592bfcad6f09c810a2e9efb8</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Psionic Spellcasting Instruments</description>
+				<version>r1.1-59</version>
+				<url>http://www.vazkii.us</url>
+				<authors>Vazkii</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/psi.cfg</URL>
+				<Path>config/psi.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>86df6c262133da25d8dbcda326d210a4</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Pyro&apos;s Top Hat" id="Pyro'sTopHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr_Hazard&apos;s%20Collection/Pyro&apos;s%20Top%20Hat.tbl</URL>
+			<Size>2075</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>fedacd335a71657b2a80355ef9937920</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/presets/presets.cfg</URL>
+				<Path>config/presets/presets.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>e80a13bc08c6d690c293bd6e191d491c</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/presets/presets_level0.presets</URL>
+				<Path>config/presets/presets_level0.presets</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>5819e429f595bae5959430f76c50d5b8</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/presets/presets_level1.presets</URL>
+				<Path>config/presets/presets_level1.presets</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>57943871b8b1feb0831d669d43e8896d</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/presets/presets_level2.presets</URL>
+				<Path>config/presets/presets_level2.presets</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>e0e33670d8e7ca8f2f2f75db89cb4fdb</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/presets/presets_level3.presets</URL>
+				<Path>config/presets/presets_level3.presets</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>1d51fb8b19720d1af63b4e894c8bd61e</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Quark" id="quark" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Quark-r1.4-122.jar</URL>
+			<Size>1672764</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>7b60d1cc0eb4072780ed597983c889ca</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Small things.</description>
+				<version>r1.4-122</version>
+				<url>http://www.vazkii.us</url>
+				<authors>Vazkii, wiiv</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/quark.cfg</URL>
+				<Path>config/quark.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>6e4785d573a1236c60df9f1897c1a0ab</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Rabbit in a Hat" id="RabbitinaHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/Rabbit%20in%20a%20Hat.tbl</URL>
+			<Size>1328</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>f033c079d204f4a795eab6674d5d0a3d</MD5>
+		</Module>
+		<Module name="Raccoonhat" id="Raccoonhat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Raccoonhat.tbl</URL>
+			<Size>3861</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4947a7eb44faf116da7d51e44fe09b21</MD5>
+		</Module>
+		<Module name="RainingHat" id="RainingHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/RainingHat.tbl</URL>
+			<Size>1259</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>a9dbfb9476355ff3fd78ca66a130aee8</MD5>
+		</Module>
+		<Module name="randompatches-1.12.2-1.0.1.0" id="randompatches" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/randompatches-1.12.2-1.0.1.0.jar</URL>
+			<Size>9506</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4bc04963ce5b098f3fc3a9bc220ba07f</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/randompatches.cfg</URL>
+				<Path>config/randompatches.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>437827971afa1a4d5f6922006182735b</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Recurrent Complex" id="reccomplex" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/RecurrentComplex-1.4.7.jar</URL>
+			<Size>6928168</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>a4033c25cad58e021d0479768665c8b9</MD5>
+			<Meta>
+				<credits>See structurecredits.txt for full default structure list credits.</credits>
+				<description>Adds structures to worldgen, handles exporting and importing structures, and provides build tools.</description>
+				<version>1.4.7</version>
+				<url></url>
+				<authors>Ivorius</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/reccomplex.cfg</URL>
+				<Path>config/reccomplex.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>37e72bba3c91b5676c93c430a5524ef9</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Redstoner&apos;s Hat" id="Redstoner'sHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Redstoner&apos;s%20Hat.tbl</URL>
+			<Size>2357</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>120af75858819405ba2689b2293c609b</MD5>
+		</Module>
+		<Module name="Reliquary" id="xreliquary" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Reliquary-1.12.2-1.3.4.757.jar</URL>
+			<Size>1239597</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>caec7066262195882446ca51a7aa3180</MD5>
+			<Meta>
+				<credits>Originally made by x3n0ph0b3 and TheMike, now maintained by P3pp3rF1y.</credits>
+				<description>Two words: magical swag. Oh, and a gun.</description>
+				<version>1.12.2-1.3.4.757</version>
+				<url></url>
+				<authors>x3n0ph0b3, TheMike, P3pp3rF1y</authors>
+			</Meta>
+		</Module>
+		<Module name="Rustic" id="rustic" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/rustic-1.0.2.jar</URL>
+			<Size>1308662</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>45b155008b1c327e59f5a198073f47c9</MD5>
+			<Meta>
+				<credits></credits>
+				<description>A medieval themed Minecraft mod based around decoration, exploration, and agriculture.</description>
+				<version>1.0.2</version>
+				<url>https://github.com/the-realest-stu/Rustic</url>
+				<authors>the-realest-stu</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/rustic.cfg</URL>
+				<Path>config/rustic.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>cb58be26ba7493472285ce07941c122e</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Safe N&apos; sound" id="SafeN'sound" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/Safe%20N&apos;%20sound.tbl</URL>
+			<Size>977</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>bd250c7f39c9c6eec08febafced4a6b8</MD5>
+		</Module>
+		<Module name="Serene Seasons" id="sereneseasons" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/SereneSeasons-1.12.2-1.0.0-universal.jar</URL>
+			<Size>153054</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ef8e5f1cdeaa1d82f8174b9032418c0d</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Adds seasons with changing colors, temperature shifting, and more!</description>
+				<version>1.0.0</version>
+				<url></url>
+				<authors>Adubbz, Forstride</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/toughasnails/seasons.cfg</URL>
+				<Path>config/toughasnails/seasons.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>dd73b887e6016e081be8bb9c4f2fd664</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="ShadowMC" id="shadowmc" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/ShadowMC-1.12-3.8.0.jar</URL>
+			<Size>464802</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4649d8bc9cf94f032b4482692f4b4c2d</MD5>
+			<Meta>
+				<credits></credits>
+				<description>A library mod required for all my other mods.</description>
+				<version>1.12-3.8.0</version>
+				<url>http://github.com/shadowfacts/ShadowMC</url>
+				<authors>Shadowfacts</authors>
+			</Meta>
+		</Module>
+		<Module name="Shady Baguette" id="ShadyBaguette" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr_Hazard&apos;s%20Collection/Shady%20Baguette.tbl</URL>
+			<Size>2821</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>bc9680f67942343d695b8acca18d102e</MD5>
+		</Module>
+		<Module name="Skycrane" id="Skycrane" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr_Hazard&apos;s%20Collection/Skycrane.tbl</URL>
+			<Size>17572</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>85f6a2565a188de4904ab48606c83542</MD5>
+		</Module>
+		<Module name="Skyrim Hat" id="SkyrimHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Skyrim%20Hat.tbl</URL>
+			<Size>2213</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>d4aada8ab4dd3021fecc2eb592f0ac0e</MD5>
+		</Module>
+		<Module name="Slime Hat" id="SlimeHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/The_Mushroomcow&apos;s%20Collection/Slime%20Hat.tbl</URL>
+			<Size>1114</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>6bd73d4d10ebbf829db7f6e18e7968fe</MD5>
+		</Module>
+		<Module name="Small Dog" id="SmallDog" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/Small%20Dog.tbl</URL>
+			<Size>1699</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>f73b0b98839919a475e511c9e0899527</MD5>
+		</Module>
+		<Module name="Soda Top" id="SodaTop" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Soda%20Top.tbl</URL>
+			<Size>2528</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>0a0d77c8e643ea9db4924886290bd006</MD5>
+		</Module>
+		<Module name="Solar Helmet" id="SolarHelmet" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Solar%20Helmet.tbl</URL>
+			<Size>1567</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>1d8f9f98b7a3c6d07d5db2935a70bc52</MD5>
+		</Module>
+		<Module name="Sombero" id="Sombero" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Sombero.tbl</URL>
+			<Size>1700</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>87cbd21c3aa80ee502a432e52d0d30e8</MD5>
+		</Module>
+		<Module name="Spartan Shields" id="spartanshields" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/SpartanShields-1.12.2-1.4.1.jar</URL>
+			<Size>175935</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>e76e297d2f4e49ba2b217d5493d5985f</MD5>
+			<Meta>
+				<credits>Evinsta for the name, Ryo_Pasternak for Russian translation.</credits>
+				<description>Spartan Shields adds a variety of new shields to Minecraft.</description>
+				<version>1.4.1</version>
+				<url>https://minecraft.curseforge.com/projects/spartan-shields</url>
+				<authors>ObliviousSpartan</authors>
+			</Meta>
+		</Module>
+		<Module name="Spartan Weaponry" id="spartanweaponry" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/SpartanWeaponry-1.12.2-beta-1.1.2.jar</URL>
+			<Size>505498</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8d64bf4894e41b36c97a685f85b0912c</MD5>
+			<Meta>
+				<credits>xwerffx for the weapon ideas and most of the art.</credits>
+				<description>Spartan Weaponry adds a variety of new weapons to Minecraft.</description>
+				<version>beta 1.1.2</version>
+				<url>https://minecraft.curseforge.com/projects/spartan-weaponry</url>
+				<authors>ObliviousSpartan</authors>
+			</Meta>
+		</Module>
+		<Module name="Squid" id="Squid" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Squid.tbl</URL>
+			<Size>1789</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>f7f089efd55d6e043531f855ac2e216f</MD5>
+		</Module>
+		<Module name="Stainless Pot" id="StainlessPot" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Stainless%20Pot.tbl</URL>
+			<Size>2644</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>380cd657855a37b5e034673fda65abf1</MD5>
+		</Module>
+		<Module name="Storage Drawers" id="storagedrawers" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/StorageDrawers-1.12.2-5.3.5.jar</URL>
+			<Size>595750</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>992c0d50616449bc693cf6f82cac5cee</MD5>
+			<Meta>
+				<credits>By jaquadro</credits>
+				<description>Multi-drawer storage blocks for quick storage and retrieval.</description>
+				<version>1.12.2-5.3.5</version>
+				<url>http://www.jaquadro.com/</url>
+				<authors>jaquadro</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/storagedrawers.cfg</URL>
+				<Path>config/storagedrawers.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>00fa36a20fbc30e9e1330fa98ae2d4a3</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Straw Hat" id="StrawHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Straw%20Hat.tbl</URL>
+			<Size>1275</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>0ec17889d2c4049a9290964fcb7cbaae</MD5>
+		</Module>
+		<Module name="Sunglasses" id="Sunglasses" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/The_Mushroomcow&apos;s%20Collection/Sunglasses.tbl</URL>
+			<Size>1024</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b6c6aac8333f60e4d85ec265d1fd16a9</MD5>
+		</Module>
+		<Module name="Suspicious Hat" id="SuspiciousHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr_Hazard&apos;s%20Collection/Suspicious%20Hat.tbl</URL>
+			<Size>1761</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8a5380f1bc2f2819d89210cc04ad254b</MD5>
+		</Module>
+		<Module name="T-Rex" id="T-Rex" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr_Hazard&apos;s%20Collection/T-Rex.tbl</URL>
+			<Size>21472</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>32e8ef79145c3a0c788294ca7ed25105</MD5>
+		</Module>
+		<Module name="Tardis" id="Tardis" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Tardis.tbl</URL>
+			<Size>87666</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ddb82501b5bf4790c6c26643b6bb3880</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/Weather2/Misc.cfg</URL>
+				<Path>config/Weather2/Misc.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>349bdd4d095580c43fd45429a1ce2222</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="TentaCool" id="TentaCool" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/TentaCool.tbl</URL>
+			<Size>1202</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>4c3d216ff9d264a28fed7aef4f477b1f</MD5>
+		</Module>
+		<Module name="The BOM Plugin" id="thebomplugin" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/thebomplugin-1.12-0.2.3.jar</URL>
+			<Size>51629</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>807b65a1f2f666dead4e690cf38b07ee</MD5>
+			<Meta>
+				<credits>Thanks to mezz for JEI&apos;s api, and Kienan for art</credits>
+				<description>A plugin for JEI that lists components needed to craft complex items and blocks.</description>
+				<version>1.12-0.2.3</version>
+				<url>http://github.com/osum4est/the-bom-plugin</url>
+				<authors>osum4est</authors>
+			</Meta>
+		</Module>
+		<Module name="The Chwannie" id="TheChwannie" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/DJFLuFFy_vs_joe&apos;s%20Collection/The%20Chwannie.tbl</URL>
+			<Size>1694</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>41179585ffa16b10f929461a2715bb99</MD5>
+		</Module>
+		<Module name="The Creeping Nether" id="creepingnether" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Creeping+Nether-2.0.jar</URL>
+			<Size>69358</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>eb38ffa948b0e49fdcc040be1a2ca22e</MD5>
+			<Meta>
+				<credits></credits>
+				<description>The Nether shall spill out into the overworld.</description>
+				<version>2.0</version>
+				<url>https://minecraft.curseforge.com/projects/the-creeping-nether</url>
+				<authors>Dreadwing93</authors>
+			</Meta>
+		</Module>
+		<Module name="The Crown of the Ice King" id="TheCrownoftheIceKing" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/The%20Crown%20of%20the%20Ice%20King.tbl</URL>
+			<Size>1723</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>6bfb622b24ff8485cb0f1a82f4dfe8a0</MD5>
+		</Module>
+		<Module name="The Prick" id="ThePrick" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Portalcrafter51&apos;s%20Collection/The%20Prick.tbl</URL>
+			<Size>2442</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>bfb9b077b974f8f4d0b6d6420e11607b</MD5>
+		</Module>
+		<Module name="Tinkers&apos; Construct" id="tconstruct" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/TConstruct-1.12.2-2.9.1.65.jar</URL>
+			<Size>3760118</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>5d25cd5d624acc0f3333ea11da65252d</MD5>
+			<Meta>
+				<credits>Slime Knights, mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox</credits>
+				<description>A little of this, a little of that, a lot of tinkering, and a lot of tools</description>
+				<version>1.12.2-2.9.1.65</version>
+				<url>https://github.com/SlimeKnights/TinkersConstruct</url>
+				<authors>boni, KnightMiner</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/tconstruct.cfg</URL>
+				<Path>config/tconstruct.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>bd60891cb4851d99e12f3fd2639e560a</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/TinkerModules.cfg</URL>
+				<Path>config/TinkerModules.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>d0f79d1bbe0ea97400db4af8729274ce</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Tool Belt" id="toolbelt" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/ToolBelt-1.12.0-1.7.1.jar</URL>
+			<Size>93204</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>167acc144addada8c0ff75f2795073c6</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Adds a (baubles-aware) belt that you can use to hold multiple tools at once.</description>
+				<version>1.7.1</version>
+				<url>https://github.com/gigaherz/ToolBelt</url>
+				<authors>gigaherz</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/rftools/rftools.cfg</URL>
+				<Path>config/rftools/rftools.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>fc291a091e876fecd16a78124b67a4b4</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Top Hat" id="TopHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Top%20Hat.tbl</URL>
+			<Size>1044</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ed78ad2083da48c426b9b0484b0bd72f</MD5>
+		</Module>
+		<Module name="Towering Pillar Of Hats" id="ToweringPillarOfHats" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Towering%20Pillar%20Of%20Hats.tbl</URL>
+			<Size>1211</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>beb2a079844757a38a1bdf652232a953</MD5>
+		</Module>
+		<Module name="Trail Mix Mascot" id="TrailMixMascot" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Trail%20Mix%20Mascot.tbl</URL>
+			<Size>1950</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>98c5c91ac1643867158c07a4bf9599a7</MD5>
+		</Module>
+		<Module name="Treehat" id="Treehat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Treehat.tbl</URL>
+			<Size>2416</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>5d5124d13077d4da5041c4b56d6ed8e7</MD5>
+		</Module>
+		<Module name="Troll" id="Troll" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Troll.tbl</URL>
+			<Size>3407</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>ff91aa0b2f437ed2977f1606f703dd20</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/forge.cfg</URL>
+				<Path>config/forge.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>0cca1c574912365e0af5738eb44953f9</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Turkey Hat" id="TurkeyHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/The_Mushroomcow&apos;s%20Collection/Turkey%20Hat.tbl</URL>
+			<Size>2736</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>fd752a1e5ca196a7d8b8a65f78a5fb75</MD5>
+		</Module>
+		<Module name="Turtle&apos;s Hideout" id="Turtle'sHideout" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Mr_Hazard&apos;s%20Collection/Turtle&apos;s%20Hideout.tbl</URL>
+			<Size>3290</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>823f091db83a5bb469642e310a041a04</MD5>
+		</Module>
+		<Module name="UniDict" id="unidict" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/UniDict-1.12.2-2.4c.jar</URL>
+			<Size>173437</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>1a380e796ca5578f3dcb291f79a6676b</MD5>
+			<Meta>
+				<credits>Mojang for creating Minecraft.
+Forge/FML for creating this awesome modding platform.
+The creators of every mod that UniDict interacts.
+All the users of UniDict.</credits>
+				<description>a mod about unifying all the things.</description>
+				<version>1.12.2-2.4c</version>
+				<url>http://minecraft.curseforge.com/projects/unidict</url>
+				<authors>WanionCane</authors>
+			</Meta>
+		</Module>
+		<Module name="Universe Pumpkin" id="UniversePumpkin" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/The_Mushroomcow&apos;s%20Collection/Universe%20Pumpkin.tbl</URL>
+			<Size>22524</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>0097fa876836b11b2dedb4a38c6026ae</MD5>
+		</Module>
+		<Module name="Unloader" id="unloader" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/unloader-1.0.1.jar</URL>
+			<Size>3746</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>18e1283e19c8b137a21146d495d93d34</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Unload dimensions not in use.</description>
+				<version>1.0.1</version>
+				<url>https://github.com/Unnoen/Unloader</url>
+				<authors>Unnoen</authors>
+			</Meta>
+		</Module>
+		<Module name="Ushanka" id="Ushanka" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/The_Mushroomcow&apos;s%20Collection/Ushanka.tbl</URL>
+			<Size>2309</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>6d97933c504395e0f85a1227e4860cfe</MD5>
+		</Module>
+		<Module name="Viking Hat" id="VikingHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Viking%20Hat.tbl</URL>
+			<Size>2475</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>b66ab4e5be76fd5c9a3a7b8501f3a6e5</MD5>
+		</Module>
+		<Module name="Waddles" id="waddles" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Waddles-1.12.2-0.5.6.jar</URL>
+			<Size>231996</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>cec2369b4f80c0b847c9bf630e661a63</MD5>
+			<Meta>
+				<credits>Thanks to Wiiv for making the models!</credits>
+				<description>Waddles adds somewhat realistic AdÃ©lie penguins that waddle</description>
+				<version>0.5.6</version>
+				<url>https://minecraft.curseforge.com/projects/waddles</url>
+				<authors>Girafi</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/Waddles.cfg</URL>
+				<Path>config/Waddles.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>0a80604a037e3d4308ec801670cd6d4a</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Waila" id="waila" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Hwyla-1.8.24-B39_1.12.jar</URL>
+			<Size>452200</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>6d03d0f2d87a80467d5d3e3ce2a80e98</MD5>
+			<Meta>
+				<credits></credits>
+				<description>You are using Hwyla, a fork of Waila. You can find more information on the Hwyla CurseForge page.</description>
+				<version>1.8.24</version>
+				<url></url>
+				<authors>ProfMobius, TehNut</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/splash.properties</URL>
+				<Path>config/splash.properties</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>89b5c3be04f893c1a5b5cb1c93c50373</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/waila/theme/dark.json</URL>
+				<Path>config/waila/theme/dark.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>91f7d992164fa6c216f5a23059b2137a</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/waila/theme/vanilla.json</URL>
+				<Path>config/waila/theme/vanilla.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>93f67ec8cc14f861d01b4b930b49525b</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/waila/waila.cfg</URL>
+				<Path>config/waila/waila.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>bbfa911573ba2cc8d5e96ad3d45a5ac2</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Waila Harvestability" id="wailaharvestability" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/WailaHarvestability-mc1.12-1.1.12.jar</URL>
+			<Size>31462</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>0bd8765ff3064be336cb1b09208e410c</MD5>
+			<Meta>
+				<credits></credits>
+				<description>An add-on for Waila that adds information about the harvestability of what you are looking at</description>
+				<version>1.1.12</version>
+				<url></url>
+				<authors>squeek</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/wailaharvestability.cfg</URL>
+				<Path>config/wailaharvestability.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>3b4ec94528654f9b5f1310b5c8414696</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="WanionLib" id="wanionlib" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/WanionLib-1.12.2-1.5.jar</URL>
+			<Size>63189</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>f0c6e0afb5383ed0653db531dd12c732</MD5>
+			<Meta>
+				<credits></credits>
+				<description>Shared Code Library Used by (not)all WanionCane mods!</description>
+				<version>1.12.2-1.5</version>
+				<url>http://minecraft.curseforge.com/projects/wanionlib</url>
+				<authors>WanionCane</authors>
+			</Meta>
+		</Module>
+		<Module name="Waystones" id="waystones" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/Waystones_1.12.2-4.0.20.jar</URL>
+			<Size>127565</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>9ee4a5a1891f7f126d960a3efe5fd6ee</MD5>
+			<Meta>
+				<credits>Developed by BlayTheNinth. Includes item icons by @JoeCreates released under CC-BY-SA 3.0</credits>
+				<description>Teleport back to activated waystones. For Survival, Adventure or Servers.</description>
+				<version>4.0.20</version>
+				<url></url>
+				<authors>BlayTheNinth</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/Waystones.cfg</URL>
+				<Path>config/Waystones.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>385ff6d60b3a7e9b5796702b171b3f00</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Welding Helmet" id="WeldingHelmet" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Welding%20Helmet.tbl</URL>
+			<Size>2515</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>390d3a7c1acd9522c5a7991ec1e6b1a9</MD5>
+		</Module>
+		<Module name="Winter Cap" id="WinterCap" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Winter%20Cap.tbl</URL>
+			<Size>1160</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>437fc20ed596d6edde7146a904a8ab8a</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/Weather2/Wind.cfg</URL>
+				<Path>config/Weather2/Wind.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>ad69eff51a6f9dd6efd7b6bfaa85ba66</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="WitherBoss Skulls" id="WitherBossSkulls" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Hat%20Pack%201/WitherBoss%20Skulls.tbl</URL>
+			<Size>1491</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>264a08dd3d9c8f30b47d2d61ab508129</MD5>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/Weather2/Particle.cfg</URL>
+				<Path>config/Weather2/Particle.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>f43236f629f8ac5a783f985ce7a7d227</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Wizard Hat" id="WizardHat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Wizard%20Hat.tbl</URL>
+			<Size>1781</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>bd985c2a7681b49123755597465e2a62</MD5>
+		</Module>
+		<Module name="Woodhat" id="Woodhat" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/hats/Woodhat.tbl</URL>
+			<Size>2794</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8575a262c46fe0d412890c7f525fa1d0</MD5>
+		</Module>
+		<Module name="Woot" id="Woot" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/woot-1.12.2-1.0.1.jar</URL>
+			<Size>767433</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>60d031aea1bf94851a66c40db9fc9f39</MD5>
+			<Meta>
+				<credits></credits>
+				<description>The alternative mob spawner/grinder system</description>
+				<version>1.12.2-1.0.1</version>
+				<url>http://www.github.com/ipsis/Woot/</url>
+				<authors>Ipsis</authors>
+			</Meta>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/woot/custom_drops.json</URL>
+				<Path>config/woot/custom_drops.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>73d78435acc2b4d60f72ed15a10d4c98</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/woot/factory_config.json</URL>
+				<Path>config/woot/factory_config.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>72dc7629582127407debb42ad8dcc10e</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/woot/factory_ingredients.json</URL>
+				<Path>config/woot/factory_ingredients.json</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>3c267b16ffcd468a267369f985f9f45a</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">httpL//files.mcupdater.com//config/woot/woot.cfg</URL>
+				<Path>config/woot/woot.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>5192bdad6619e2b7577725c88605e724</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="WorldEdit" id="worldedit" depends="" side="BOTH">
+			<URL priority="0">httpL//files.mcupdater.com//mods/worldedit-forge-mc1.12-6.1.8-dist.jar</URL>
+			<Size>1470354</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>73ecbb8656a5fd5823852078f0fb7ca7</MD5>
+			<Meta>
+				<credits></credits>
+				<description>WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both single player and multiplayer.</description>
+				<version>6.1.8-SNAPSHOT;cd4729f</version>
+				<url>http://wiki.sk89q.com/wiki/WorldEdit</url>
+				<authors>sk89q, wizjany, TomyLobo, kenzierocks</authors>
+			</Meta>
+		</Module>
+	</Server>
+</ServerPack>
